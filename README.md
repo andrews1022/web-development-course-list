@@ -7,8 +7,9 @@ Watch the [video here](https://www.youtube.com/watch?v=0pThnRneDjw).
 
 And of course there are other learning platforms besides Udemy, but that is the platform I am personally most familiar and I think is the most popular, so that's what I am going with. So withour further ado, let's get learning!
 
-![Slide 3](img/slide-3.jpg)
+
 ## Tools 1: The Necessities
+![Slide 3](img/slide-3.jpg)
 
 ### Computer & OS
 - MacOS
@@ -35,7 +36,7 @@ And of course there are other learning platforms besides Udemy, but that is the 
 - [InVision](https://www.invisionapp.com/)
 - [Sketch](https://www.sketch.com/)
 
-***
+
 
 ## The Building Blocks & Responsive Design
 ![Slide 4](img/slide-4.jpg)
@@ -51,7 +52,7 @@ And of course there are other learning platforms besides Udemy, but that is the 
 - [CSS - The Complete Guide 2020 (incl. Flexbox, Grid & Sass)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) by Maximilian Schwarzmüller *(296 lectures / 22.5hrs)*
 - [CSS Bootcamp - Master CSS (Including CSS Grid / Flexbox)](https://www.udemy.com/course/css-bootcamp-master-in-css-including-css-grid-flexbox/) by Code And Create *(89 lectures / 11.5hrs)*
 
-***
+
 
 ## Custom Reusable CSS Components
 ![Slide 6](img/slide-6.jpg)
