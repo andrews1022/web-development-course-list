@@ -63,3 +63,18 @@ And of course there are other learning platforms besides Udemy, but that is the 
 + [SASS - The Complete SASS Course (CSS Preprocessor)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) by Code And Create *(51 lectures / 6hrs)*
 + [The Complete Sass & SCSS Course: From Beginner to Advanced](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) by Joe Parys *(41 lectures / 4hrs)*
 + [The Sass Course! Learn Sass for Real-World Websites](https://www.udemy.com/course/learn-sass/) by Brad Hussey *(18 lectures / 3.5hrs)*
+
+
+
+## CSS Frameworks (Choose One)
+![Slide 7](img/slide-7.jpg)
+
+### Bootstrap
++ [Bootstrap 4 - Create 4 Real World Projects](https://www.udemy.com/course/bootstrap-4-create-4-real-world-projects-latest-411/) by Code And Create *(64 lectures / 10hrs)*
++ [Bootstrap 4 From Scratch With 5 Projects](https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/) by Brad Traversy *(74 lectures / 11.5hrs)*
++ [Bootstrap 4 Tutorial and 10 Projects Course](https://www.udemy.com/course/bootstrap-4-beta-ultimate-projects-course/) by John Smilga *(250 lectures / 44hrs)*
++ [The Bootstrap 4 Bootcamp](https://www.udemy.com/course/bootstrap-4-bootcamp/) by Colt Steele *(87 lectures / 11.5hrs)*
++ [The Complete Bootstrap Masterclass Course - Build 4 Projects](https://www.udemy.com/course/bootstrapcourse/) by Joe Parys *(67 lectures / 7hrs)*
+
+### Materialize
++ [Materialize CSS From Scratch With 5 Projects](https://www.udemy.com/course/materialize-css-from-scratch-with-5-projects/) by Brad Traversy *(63 lectures / 10.5hrs)*
