@@ -70,11 +70,38 @@ And of course there are other learning platforms besides Udemy, but that is the 
 ![Slide 7](img/slide-7.jpg)
 
 ### Bootstrap
-+ [Bootstrap 4 - Create 4 Real World Projects](https://www.udemy.com/course/bootstrap-4-create-4-real-world-projects-latest-411/) by Code And Create *(64 lectures / 10hrs)*
-+ [Bootstrap 4 From Scratch With 5 Projects](https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/) by Brad Traversy *(74 lectures / 11.5hrs)*
-+ [Bootstrap 4 Tutorial and 10 Projects Course](https://www.udemy.com/course/bootstrap-4-beta-ultimate-projects-course/) by John Smilga *(250 lectures / 44hrs)*
-+ [The Bootstrap 4 Bootcamp](https://www.udemy.com/course/bootstrap-4-bootcamp/) by Colt Steele *(87 lectures / 11.5hrs)*
-+ [The Complete Bootstrap Masterclass Course - Build 4 Projects](https://www.udemy.com/course/bootstrapcourse/) by Joe Parys *(67 lectures / 7hrs)*
++ [Bootstrap 4 - Create 4 Real World Projects](https://www.udemy.com/course/bootstrap-4-create-4-real-world-projects-latest-411/) by Code And Create *(64 lectures / 10hrs)*
++ [Bootstrap 4 From Scratch With 5 Projects](https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/) by Brad Traversy *(74 lectures / 11.5hrs)*
++ [Bootstrap 4 Tutorial and 10 Projects Course](https://www.udemy.com/course/bootstrap-4-beta-ultimate-projects-course/) by John Smilga *(250 lectures / 44hrs)*
++ [The Bootstrap 4 Bootcamp](https://www.udemy.com/course/bootstrap-4-bootcamp/) by Colt Steele *(87 lectures / 11.5hrs)*
++ [The Complete Bootstrap Masterclass Course - Build 4 Projects](https://www.udemy.com/course/bootstrapcourse/) by Joe Parys *(67 lectures / 7hrs)*
 
 ### Materialize
-+ [Materialize CSS From Scratch With 5 Projects](https://www.udemy.com/course/materialize-css-from-scratch-with-5-projects/) by Brad Traversy *(63 lectures / 10.5hrs)*
++ [Materialize CSS From Scratch With 5 Projects](https://www.udemy.com/course/materialize-css-from-scratch-with-5-projects/) by Brad Traversy *(63 lectures / 10.5hrs)*
+
+
+
+## Vanilla JavaScript
+![Slide 8](img/slide-8.jpg)
+
+### For Beginners
++ [JavaScript - The Complete Guide 2020 (Beginner + Advanced)](https://www.udemy.com/course/the-complete-javascript-course/) by Maximilian Schwarzmüller *(545 lectures / 46hrs)*
++ [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/) by Anthony Alicea *(85 lectures / 11.5hrs)*
++ [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/course/learn-javascript-full-stack-from-scratch/) by Brad Schiff *(118 lectures / 27hrs)*
++ [Modern JavaScript (from Novice to Ninja)](https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/) by Shaun Pelling *(173 lectures / 19hrs)*
++ [Modern JavaScript From The Beginning](https://www.udemy.com/course/modern-javascript-from-the-beginning/) by Brad Traversy *(121 lectures / 21.5hrs)*
++ [The Complete JavaScript Course 2020: Build Real Projects!](https://www.udemy.com/course/the-complete-javascript-course/) by Jonas Schmedtmann *(166 lectures / 28hrs)*
++ [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/) by Andrew Mead *(155 lectures / 29.5hrs)*
++ [The New Modern Javascript Bootcamp (2020)](https://www.udemy.com/course/javascript-beginners-complete-tutorial/) by Colt Steele & Stephen Grider *(480 lectures / 52hrs)*
+
+
+### Project Focused
++ [JavaScript 50+ projects and applications Monster JavaScript](https://www.udemy.com/course/javascript-course-projects/) by Laurence Svekis *(632 lectures / 45.5hrs)*
++ [Javascript Tutorial and Projects Course](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/) by John Smilga *(299 lectures / 52.5hrs)*
+
+### ES6 Focused
++ [Accelerated ES6 JavaScript Training](https://www.udemy.com/course/es6-bootcamp-next-generation-javascript/) by Maximilian Schwarzmüller *(115 lectures / 6hrs)*
++ [ES6 Javascript: The Complete Developer's Guide](https://www.udemy.com/course/javascript-es6-tutorial/) by Stephen Grider *(68 lectures / 6hrs)*
+
+### Advanced JavaScript
++ [Advanced JavaScript Concepts](https://www.udemy.com/course/advanced-javascript-concepts/) by Andrei Neagoie *(216 lectures / 24.5hrs)*
