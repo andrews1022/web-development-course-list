@@ -27,19 +27,19 @@ And of course there are other learning platforms besides Udemy, but that is the 
 - [Opera](https://www.opera.com/)
 
 ### Design
-[Adobe Illustrator](https://www.adobe.com/ca/products/illustrator.html)
-[Adobe Photoshop](https://www.photoshop.com/)
-[Adobe XD](https://www.adobe.com/ca/products/xd.html)
-[Affinity](https://affinity.serif.com)
-[Figma](https://www.figma.com/)
-[InVision](https://www.invisionapp.com/)
-[Sketch](https://www.sketch.com/)
+- [Adobe Illustrator](https://www.adobe.com/ca/products/illustrator.html)
+- [Adobe Photoshop](https://www.photoshop.com/)
+- [Adobe XD](https://www.adobe.com/ca/products/xd.html)
+- [Affinity](https://affinity.serif.com)
+- [Figma](https://www.figma.com/)
+- [InVision](https://www.invisionapp.com/)
+- [Sketch](https://www.sketch.com/)
 
 ***
 
+## The Building Blocks & Responsive Design
 ![Slide 4](img/slide-4.jpg)
 ![Slide 5](img/slide-5.jpg)
-## The Building Blocks & Responsive Design
 
 ### HTML & CSS
 - [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) by Jonas Schmedtmann *(77 lectures / 12hrs)*
@@ -53,12 +53,12 @@ And of course there are other learning platforms besides Udemy, but that is the 
 
 ***
 
-![Slide 6](img/slide-6.jpg)
 ## Custom Reusable CSS Components
+![Slide 6](img/slide-6.jpg)
 
 ### Sass
 - [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/) by Jonas Schmedtmann *(125 lectures / 28hrs)*
-- [CSS - The Complete Guide 2020 (incl. Flexbox, Grid & Sass)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) by *Maximilian Schwarzmüller* *(**296 lectures** / **22.5hrs**)*
+- [CSS - The Complete Guide 2020 (incl. Flexbox, Grid & Sass)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) by Maximilian Schwarzmüller *(296 lectures / 22.5hrs)*
 - [SASS - The Complete SASS Course (CSS Preprocessor)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) by Code And Create *(51 lectures / 6hrs)*
 - [The Complete Sass & SCSS Course: From Beginner to Advanced](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) by Joe Parys *(41 lectures / 4hrs)*
 - [The Sass Course! Learn Sass for Real-World Websites](https://www.udemy.com/course/learn-sass/) by Brad Hussey *(18 lectures / 3.5hrs)*
