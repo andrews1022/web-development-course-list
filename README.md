@@ -40,3 +40,8 @@ And of course there are other learning platforms besides Udemy, but that is the 
 ![Slide 4](img/slide-4.jpg)
 ![Slide 5](img/slide-5.jpg)
 ## The Building Blocks & Responsive Design
+
+### HTML & CSS
+- [Modern HTML & CSS From The Beginning (Including Sass)](https://www.udemy.com/course/modern-html-css-from-the-beginning/) by Brad Traversy *(128 lectures / 21hrs)*
+- [Web Design for Beginners: Real World Coding in HTML & CSS](https://www.udemy.com/course/web-design-for-beginners-real-world-coding-in-html-css/) by Brad Schiff *(59 lectures / 9hrs)*
+- [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) by Jonas Schmedtmann *(77 lectures / 12hrs)*
