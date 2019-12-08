@@ -272,3 +272,70 @@ And of course there are other learning platforms besides Udemy, but that is the 
 
 ### Rust
 + [The Rust Programming Language](https://www.udemy.com/course/rust-lang/) by Dmitri Nesteruk *(51 lectures / 7hrs)*
+
+
+
+## Server-Side Framework (Choose One)
+![Slide 21](img/slide-21.jpg)
+
+### Express (Node)
++ [Just Express (with a bunch of node and http). In detail.](https://www.udemy.com/course/just-express-with-a-bunch-of-node-and-http-in-detail/) by Robert Bunch *(57 lectures / 12.5hrs)*
++ **_See Node section above - Express is covered in those courses as well_**
+
+### Koa (Node)
++ [Node.Js: Learning Koa.Js By Building REST APIs](https://www.udemy.com/course/learning-koajs-by-building-rest-apis/) by Haider Malik *(57 lectures / 12.5hrs)*
+
+### Nest (Node)
++ [NestJs in Practice (with MongoDB)](https://www.udemy.com/course/nestjs-course/) by Angular University *(45 lectures / 4.5hrs)*
++ [NestJS Zero to Hero - Modern TypeScript Back-end Development](https://www.udemy.com/course/nestjs-zero-to-hero/) by Ariel Weinberger *(102 lectures / 6.5hrs)*
+
+### Laravel (PHP)
++ [Laravel 2019, the complete guide with real world projects](https://www.udemy.com/course/best-laravel/) by Kati Frantz *(196 lectures / 24hrs)*
++ [Master Laravel PHP in 2019 for Beginners and Intermediate](https://www.udemy.com/course/laravel-beginner-fundamentals/) by Piotr Jura *(216 lectures / 30hrs)*
++ [PHP with Laravel for beginners - Become a Master in Laravel](https://www.udemy.com/course/php-with-laravel-for-beginners-become-a-master-in-laravel/) by Edwin Diaz *(336 lectures / 32hrs)*
++ [RESTful API with Laravel: Build a real API with Laravel](https://www.udemy.com/course/restful-api-with-laravel-php-homestead-passport-hateoas/) by JuanDMeGon *(225 lectures / 14.5hrs)*
+
+### Symfony (PHP)
++ [Learn PHP Symfony 4 Hands-On Creating Real World Application](https://www.udemy.com/course/learn-symfony-4-hands-on-creating-a-real-world-application/) by Piotr Jura *(114 lectures / 13.5hrs)*
++ [Learn Symfony 3 framework by practical examples](https://www.udemy.com/course/learn-symfony-3-framework-by-practical-examples/) by Wojciech Ciolko *(48 lectures / 4hrs)*
++ [Symfony 4 & 5 Web Development Guide: Beginner To Advanced](https://www.udemy.com/course/symfony-4-web-development-from-beginner-to-advanced/) by Symfony & Laravel Stuff *(267 lectures / 20hrs)*
+
+### Django (Python)
++ [Coding for Entrepreneurs: Learn Python, Django, and More.](https://www.udemy.com/course/coding-for-entrepreneurs/) by Justin Mitchel *(251 lectures / 44.5hrs)*
++ [Django & Python: complete BUNDLE + Django real world project](https://www.udemy.com/course/python-django-tkinter-complete-bundle-advance/) by Arash Shahvar *(287 lectures / 47hrs)*
++ [Django 2.2 & Python | The Ultimate Web Development Bootcamp](https://www.udemy.com/course/the-ultimate-beginners-guide-to-django-django-2-python-web-dev-website/) by Nick Walter *(78 lectures / 10hrs)*
++ [Django Core | A Reference Guide to Core Django Concepts](https://www.udemy.com/course/django-core/) by Justin Mitchel *(159 lectures / 18.5hrs)*
++ [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) by Jose Portilla *(198 lectures / 32hrs)*
++ [Python Django Dev To Deployment](https://www.udemy.com/course/python-django-dev-to-deployment/) by Brad Traversy *(70 lectures / 11hrs)*
+
+### Flask (Python)
++ [Advanced REST APIs with Flask and Python](https://www.udemy.com/course/advanced-rest-apis-flask-python/) by Jose Salvatierra *(130 lectures / 12.5hrs)*
++ [Complete Python Web Course: Build 8 Python Web Apps](https://www.udemy.com/course/the-complete-python-web-course-learn-by-building-8-apps/) by Jose Salvatierra *(161 lectures / 15.5hrs)*
++ [Python and Flask Bootcamp: Create Websites using Flask!](https://www.udemy.com/course/python-and-flask-bootcamp-create-websites-using-flask/) by Jose Portilla *(126 lectures / 20hrs)*
++ [Python Flask for Beginners: Build a CRUD web app using Flask](https://www.udemy.com/course/python-flask-beginners/) by Febin George *(28 lectures / 3hrs)*
++ [REST APIs with Flask and Python](https://www.udemy.com/course/rest-api-flask-and-python/) by Jose Salvatierra *(170 lectures / 17hrs)*
++ [The Flask Mega-Tutorial (Python Web Development)](https://www.udemy.com/course/flask-mega-tutorial/) by Miguel Grinberg *(192 lectures / 11.5hrs)*
++ [The Ultimate Flask Course](https://www.udemy.com/course/the-ultimate-flask-course/) by Anthony Herbert *(340 lectures / 27hrs)*
+
+### ASP.NET MVC (C#)
++ [The Complete ASP.NET MVC 5 Course](https://www.udemy.com/course/the-complete-aspnet-mvc-5-course/) by Mosh Hamedani *(139 lectures / 7.5hrs)*
+
+### Spring MVC (Java)
++ [Java Spring Tutorial Masterclass - Learn Spring Framework 5](https://www.udemy.com/course/java-spring-framework-masterclass/) by Tim Buchalka & Goran Lochert *(273 lectures / 45hrs)*
++ [RESTful Web Services, Java, Spring Boot, Spring MVC and JPA](https://www.udemy.com/course/restful-web-service-with-spring-boot-jpa-and-mysql/) by Sergey Kargopolov *(233 lectures / 20hrs)*
++ [Spring Framework 5: Beginner to Guru](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/) by John Thompson *(498 lectures / 52.5hrs)*
++ [Spring & Hibernate for Beginners (includes Spring Boot)](https://www.udemy.com/course/spring-hibernate-tutorial/) by Chad Darby *(561 lectures / 41hrs)*
+
+### Grails (Java)
++ [Mastering Grails. A Comprehensive Grails Course.](https://www.udemy.com/course/mastering-grails/) by Infinite Skills *(71 lectures / 5.5hrs)*
+
+### Ruby on Rails (Ruby)
++ [Dissecting Ruby on Rails 5 - Become a Professional Developer](https://www.udemy.com/course/professional-rails-5-development-course/) by Jordan Hudgens *(226 lectures / 40hrs)*
++ [The Complete Ruby on Rails Developer Course](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/) by Rob Percival & Mashrur Hossain *(376 lectures / 40hrs)*
+
+
+
+## Server-Side Framework (Choose One)
+![Slide 22](img/slide-22.jpg)
+
+### PostgreSQL
