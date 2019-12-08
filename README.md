@@ -549,7 +549,7 @@ First, if Udemy's not your jam, no worries! There are plenty of other sites to l
 + [Node.js: The Complete Guide to Build RESTful APIs (2018)](https://www.udemy.com/course/nodejs-master-class/) by Mosh Hamedani *(224 lectures / 15hrs)*
 + [NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)](https://www.udemy.com/course/nodejs-the-complete-guide/) by Maximilian Schwarzmüller *(487 lectures / 36hrs)*
 + [Postman: The Complete Guide - REST API Testing](https://www.udemy.com/course/postman-the-complete-guide/) by Valentin Despa *(131 lectures / 14hrs)*
-+ [Python REST APIs with Flask, Docker, MongoDB, and AWS DevOps](https://www.udemy.com/course/python-rest-apis-with-flask-docker-mongodb-and-aws-devops/) by Tim Buchalka & El Farouk Yasser *(45 lectures / 10.5hrs)*
++ [Python REST APIs w/ Flask, Docker, MongoDB, & AWS DevOps](https://www.udemy.com/course/python-rest-apis-with-flask-docker-mongodb-and-aws-devops/) by Tim Buchalka & El Farouk Yasser *(45 lectures / 10.5hrs)*
 + [REST API Design, Development & Management](https://www.udemy.com/course/rest-api/) by Rajeev Sakhuja *(50 lectures / 7hrs)*
 + [REST API Testing(Automation) from Scratch - Rest Assured Java](https://www.udemy.com/course/rest-api-automation-testing-rest-assured/) by Rahul Shetty *(133 lectures / 23.5hrs)*
 + [REST API Testing, Automation via POSTMAN + real Google API](https://www.udemy.com/course/rest-api-testing-automation-via-postman-git-jenkins-jira/) by Sergei Semenov *(29 lectures / 2.5hrs)*
