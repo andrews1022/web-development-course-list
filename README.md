@@ -553,13 +553,13 @@ While it is true that once you work on a team/for a company, there is very likel
 + [Node.js: The Complete Guide to Build RESTful APIs (2018)](https://www.udemy.com/course/nodejs-master-class/) by Mosh Hamedani *(224 lectures / 15hrs)*
 + [NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)](https://www.udemy.com/course/nodejs-the-complete-guide/) by Maximilian Schwarzmüller *(487 lectures / 36hrs)*
 + [Postman: The Complete Guide - REST API Testing](https://www.udemy.com/course/postman-the-complete-guide/) by Valentin Despa *(131 lectures / 14hrs)*
-+ [Python REST APIs w/ Flask, Docker, MongoDB, & AWS DevOps](https://www.udemy.com/course/python-rest-apis-with-flask-docker-mongodb-and-aws-devops/) by Tim Buchalka & El Farouk Yasser *(45 lectures / 10.5hrs)*
++ [Python REST APIs with Flask, Docker, MongoDB, and AWS DevOps](https://www.udemy.com/course/python-rest-apis-with-flask-docker-mongodb-and-aws-devops/) by Tim Buchalka & El Farouk Yasser *(45 lectures / 10.5hrs)*
 + [REST API Design, Development & Management](https://www.udemy.com/course/rest-api/) by Rajeev Sakhuja *(50 lectures / 7hrs)*
-+ [REST API Testing(Automation) from Scratch - Rest Assured Java](https://www.udemy.com/course/rest-api-automation-testing-rest-assured/) by Rahul Shetty *(133 lectures / 23.5hrs)*
-+ [REST API Testing, Automation via POSTMAN + real Google API](https://www.udemy.com/course/rest-api-testing-automation-via-postman-git-jenkins-jira/) by Sergei Semenov *(29 lectures / 2.5hrs)*
++ [REST API Testing (Automation) from Scratch - Rest Assured Java](https://www.udemy.com/course/rest-api-automation-testing-rest-assured/) by Rahul Shetty *(133 lectures / 23.5hrs)*
++ [REST API Testing, Automation via Postman + real Google API](https://www.udemy.com/course/rest-api-testing-automation-via-postman-git-jenkins-jira/) by Sergei Semenov *(29 lectures / 2.5hrs)*
 + [REST APIs with Flask and Python](https://www.udemy.com/course/rest-api-flask-and-python/) by Jose Salvatierra *(170 lectures / 17hrs)*
-+ [Webservices API Testing Using Rest Assured API & Postman](https://www.udemy.com/course/webservices-testing-restassured-api-tutorial/) by Rahul Arora *(138 lectures / 37.5hrs)*
-+ [WebServices/Rest API Testing with SoapUI +Real time Project](https://www.udemy.com/course/webservices-testing-with-soap-ui/) by Rahul Shetty *(107 lectures / 19hrs)*
++ [WebServices API Testing Using Rest Assured API & Postman](https://www.udemy.com/course/webservices-testing-restassured-api-tutorial/) by Rahul Arora *(138 lectures / 37.5hrs)*
++ [WebServices/Rest API Testing with SoapUI + Real Time Project](https://www.udemy.com/course/webservices-testing-with-soap-ui/) by Rahul Shetty *(107 lectures / 19hrs)*
 
 
 
@@ -633,4 +633,4 @@ And finally, testing, or Test Driven Development (TDD). TDD is actually quite im
 ## Test / Test Driven Development (TDD)
 + [2019 Update! React Testing with Jest and Enzyme](https://www.udemy.com/course/react-testing-with-jest-and-enzyme/) by Bonnie Schulkin *(162 lectures / 12hrs)*
 + [Node.js Unit Testing In-Depth](https://www.udemy.com/course/nodejs-unit-testing-in-depth/) by Murtez Alrohani *(44 lectures / 2.5hrs)*
-Unfortunately there isn't much on testing for JavaScript on Udemy, but there are numerous, great tutorials for this over on **[YouTube](https://www.youtube.com/results?search_query=javascript+testing)**.
++ Unfortunately there isn't much on testing for JavaScript on Udemy, but there are numerous, great tutorials for this over on **[YouTube](https://www.youtube.com/results?search_query=javascript+testing)**.
