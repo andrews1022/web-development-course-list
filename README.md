@@ -441,7 +441,7 @@ First, if Udemy's not your jam, no worries! There are plenty of other sites to l
 + [Setup a Virtual Web Server using Linode or Digital Ocean](https://www.udemy.com/course/setup-a-virtual-web-server-using-linode-or-digital-ocean/) by YouAccel Training *(37 lectures / 2.5hrs)*
 
 ### Heroku
-+ While there aren't really any courses on how to deploy a site to Heroku, there are plent of tutorials over on [YouTube](https://www.youtube.com/results?search_query=deploy+to+heroku) you can use.
++ While there aren't really any courses on how to deploy a site to Heroku, there are plenty of tutorials over on [YouTube](https://www.youtube.com/results?search_query=deploy+to+heroku) you can use.
 
 ### Docker
 + [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) by Stephen Grider *(299 lectures / 21.5hrs)*
@@ -463,14 +463,45 @@ First, if Udemy's not your jam, no worries! There are plenty of other sites to l
 ## Mobile Development (Choose One)
 ![Slide 27](img/slide-27.jpg)
 
-### Flutter/Dart
+### Flutter & Dart
++ [Dart and Flutter: The Complete Developer's Guide](https://www.udemy.com/course/dart-and-flutter-the-complete-developers-guide/) by Stephen Grider *(401 lectures / 31hrs)*
++ [Flutter & Dart - The Complete Flutter App Development Course](https://www.udemy.com/course/flutter-dart-the-complete-flutter-app-development-course/) by Paulo Dichone *(226 lectures / 29hrs)*
++ [Learn Flutter & Dart to Build iOS & Android Apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) by Maximilian Schwarzmüller *(604 lectures / 58.5hrs)*
++ [The Complete 2020 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/) by Angela Yu *(199 lectures / 26.5hrs)*
+
 ### React Native
++ [React Native - The Practical Guide](https://www.udemy.com/course/react-native-the-practical-guide/) by Maximilian Schwarzmüller *(473 lectures / 43.5hrs)*
++ [React Native: Advanced Concepts](https://www.udemy.com/course/react-native-advanced/) by Stephen Grider *(151 lectures / 16.5hrs)*
++ [The Complete React Native + Hooks Course [2019 Edition]](https://www.udemy.com/course/the-complete-react-native-and-redux-course/) by Stephen Grider *(418 lectures / 38.5hrs)*
++ [The Complete React Native Course (2nd Edition)](https://www.udemy.com/course/the-complete-react-native-course-create-beautiful-apps/) by Coding Revolution *(315 lectures / 57hrs)*
+
 ### NativeScript
++ [NativeScript + Angular: Build Native iOS, Android & Web Apps](https://www.udemy.com/course/nativescript-angular-build-native-ios-android-web-apps/) by Maximilian Schwarzmüller *(240 lectures / 20.5hrs)*
+
 ### Ionic
++ [Ionic 4 - Build iOS, Android & Web Apps with Ionic & Angular](https://www.udemy.com/course/ionic-2-the-practical-guide-to-building-ios-android-apps/) by Maximilian Schwarzmüller *(508 lectures / 34.5hrs)*
+
 ### Xamarin
++ [The Advanced Xamarin Developer Masterclass](https://www.udemy.com/course/the-advanced-xamarin-developer-masterclass/) by Tim Buchalka & Eduardo Rosas *(88 lectures / 13.5hrs)*
++ [The Complete Xamarin Developer Course: iOS And Android!](https://www.udemy.com/course/complete-xamarin-developer-course-ios-and-android/) by Tim Buchalka & Eduardo Rosas *(205 lectures / 29hrs)*
++ [Xamarin Forms: Build Native Cross-platform Apps with C#](https://www.udemy.com/course/xamarin-forms-course/) by Mosh Hamedani *(117 lectures / 7.5hrs)*
+
 ### Java
++ [Android Java Masterclass - Become an App Developer](https://www.udemy.com/course/master-android-7-nougat-java-app-development-step-by-step/) by Tim Buchalka & Jean-Paul Roberts *(320 lectures / 60hrs)*
++ [Android O & Java - The Complete Android Development Bootcamp](https://www.udemy.com/course/android-app-development-with-java/) by Philipp Muellauer *(289 lectures / 21hrs)*
++ [The Complete Android & Java Developer Course - Build 21 Apps](https://www.udemy.com/course/complete-android-developer-course/) by Paulo Dichone *(228 lectures / 34.5hrs)*
++ [The Complete Android Q + Java Developer Course™ : 2019](https://www.udemy.com/course/java-android-complete-guide/) by Morteza Kordi & Maid Rondić *(582 lectures / 141hrs)*
+
 ### Kotlin
++ [Android App Development Masterclass using Kotlin](https://www.udemy.com/course/android-oreo-kotlin-app-masterclass/) by Tim Buchalka & Jean-Paul Roberts *(295 lectures / 52.5hrs)*
++ [Kotlin Android Development Masterclass](https://www.udemy.com/course/kotlin-android-developer-masterclass/) by Paulo Dichone *(223 lectures / 32.5hrs)*
++ [Kotlin for Android O Development: From Beginner to Advanced](https://www.udemy.com/course/kotlinandroid/) by Atil Samancioglu & Joe Parys *(191 lectures / 15.5hrs)*
++ [The Complete Android + Kotlin Developer Course™](https://www.udemy.com/course/complete-kotlin-android-developer-course-tutorial/) by Morteza Kordi & Maid Rondić *(272 lectures / 37hrs)*
++ [The Complete Android Kotlin Developer Course](https://www.udemy.com/course/the-complete-kotlin-developer-course/) by Hussein Al Rubaye *(205 lectures / 33.5hrs)*
+
 ### Swift
++ [iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) by Angela Yu *(510 lectures / 58hrs)*
++ [The Complete iOS 13 Developer Course - and SwiftUI!](https://www.udemy.com/course/the-complete-ios-developer-course-with-swift/) by Rob Percival & Atil Samancioglu *(299 lectures / 36hrs)*
 
 
 
@@ -478,6 +509,7 @@ First, if Udemy's not your jam, no worries! There are plenty of other sites to l
 ![Slide 28](img/slide-28.jpg)
 
 ### Progressive Web Apps
++ [Progressive Web Apps (PWA) - The Complete Guide](https://www.udemy.com/course/progressive-web-app-pwa-the-complete-guide/) by Maximilian Schwarzmüller *(206 lectures / 16hrs)*
 
 
 
@@ -485,13 +517,13 @@ First, if Udemy's not your jam, no worries! There are plenty of other sites to l
 ![Slide 29](img/slide-29.jpg)
 
 ### Electron
++ [Electron for Desktop Apps: The Complete Developer's Guide](https://www.udemy.com/course/electron-react-tutorial/) by Stephen Grider *(77 lectures / 8hrs)*
++ [Master Electron: Desktop Apps with HTML, JavaScript & CSS](https://www.udemy.com/course/master-electron/) by Maximilian Schwarzmüller *(57 lectures / 7.5hrs)*
 
 
 
 ## JAMstack
 ![Slide 30](img/slide-30.jpg)
-
-### JAMstack
 
 
 
@@ -499,42 +531,79 @@ First, if Udemy's not your jam, no worries! There are plenty of other sites to l
 ![Slide 31](img/slide-31.jpg)
 
 ### AWS Lambda
-### Netlify
++ [AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps)](https://www.udemy.com/course/aws-lambda-serverless-architecture/) by Riyaz Sayyad *(301 lectures / 25.5hrs)*
++ [AWS Lambda and the Serverless Framework - Hands On Learning!](https://www.udemy.com/course/aws-lambda-serverless/) by Stephane Maarek *(38 lectures / 2.5hrs)*
++ [AWS Serverless APIs & Apps - A Complete Introduction](https://www.udemy.com/course/aws-serverless-a-complete-introduction/) by Maximilian Schwarzmüller *(142 lectures / 7.5hrs)*
++ [Build a Serverless App with AWS Lambda - Hands On!](https://www.udemy.com/course/build-a-serverless-app-with-aws-lambda-hands-on/) by Frank Kane & Brian Tajuddin *(60 lectures / 7.5hrs)*
 
 
 
 ## API-First Design
 ![Slide 32](img/slide-32.jpg)
 
-### IoT (Internet of Things)
-### REST API
-### Node.js API
+### APIs
++ [Advanced REST APIs with Flask and Python](https://www.udemy.com/course/advanced-rest-apis-flask-python/) by Jose Salvatierra *(130 lectures / 12.5hrs)*
++ [API and Web Service Introduction](https://www.udemy.com/course/api-and-web-service-introduction/) by Nate Ross *(53 lectures / 5.5hrs)*
++ [Node.js API Masterclass With Express & MongoDB](https://www.udemy.com/course/nodejs-api-masterclass/) by Brad Traversy *(76 lectures / 12hrs)*
++ [Node.js, Express, MongoDB & More: The Complete Bootcamp 2020](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) by Jonas Schmedtmann *(227 lectures / 42hrs)*
++ [Node.js: The Complete Guide to Build RESTful APIs (2018)](https://www.udemy.com/course/nodejs-master-class/) by Mosh Hamedani *(224 lectures / 15hrs)*
++ [NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)](https://www.udemy.com/course/nodejs-the-complete-guide/) by Maximilian Schwarzmüller *(487 lectures / 36hrs)*
++ [Postman: The Complete Guide - REST API Testing](https://www.udemy.com/course/postman-the-complete-guide/) by Valentin Despa *(131 lectures / 14hrs)*
++ [Python REST APIs with Flask, Docker, MongoDB, and AWS DevOps](https://www.udemy.com/course/python-rest-apis-with-flask-docker-mongodb-and-aws-devops/) by Tim Buchalka & El Farouk Yasser *(45 lectures / 10.5hrs)*
++ [REST API Design, Development & Management](https://www.udemy.com/course/rest-api/) by Rajeev Sakhuja *(50 lectures / 7hrs)*
++ [REST API Testing(Automation) from Scratch - Rest Assured Java](https://www.udemy.com/course/rest-api-automation-testing-rest-assured/) by Rahul Shetty *(133 lectures / 23.5hrs)*
++ [REST API Testing, Automation via POSTMAN + real Google API](https://www.udemy.com/course/rest-api-testing-automation-via-postman-git-jenkins-jira/) by Sergei Semenov *(29 lectures / 2.5hrs)*
++ [REST APIs with Flask and Python](https://www.udemy.com/course/rest-api-flask-and-python/) by Jose Salvatierra *(170 lectures / 17hrs)*
++ [Webservices API Testing Using Rest Assured API & Postman](https://www.udemy.com/course/webservices-testing-restassured-api-tutorial/) by Rahul Arora *(138 lectures / 37.5hrs)*
++ [WebServices/Rest API Testing with SoapUI +Real time Project](https://www.udemy.com/course/webservices-testing-with-soap-ui/) by Rahul Shetty *(107 lectures / 19hrs)*
 
 
 
 ## Machine Learning / AI & The Web
 ![Slide 33](img/slide-33.jpg)
 
-### TensorFlow
-### Brain.js
 ### Python
++ [Complete Guide to TensorFlow for Deep Learning with Python](https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/) by Jose Portilla *(96 lectures / 14hrs)*
++ [Data Science: Deep Learning in Python](https://www.udemy.com/course/data-science-deep-learning-in-python/) by Lazy Programmer Inc. *(85 lectures / 10.5hrs)*
++ [Machine Learning, Data Science and Deep Learning with Python](https://www.udemy.com/course/data-science-and-machine-learning-with-python-hands-on/) by Frank Kane *(110 lectures / 14hrs)*
++ [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/) by Kirill Eremenko & Hadelin de Ponteves *(294 lectures / 41hrs)*
++ [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) by Jose Portilla *(149 lectures / 22.5hrs)*
+
+### JavaScript
++ [Machine Learning with Javascript](https://www.udemy.com/course/machine-learning-with-javascript/) by Stephen Grider *(185 lectures / 17.5hrs)*
 
 
 
 ## Speech Recognition
 ![Slide 34](img/slide-34.jpg)
 
-### Speech Recognition
-
 
 
 ## Web Assembly
 ![Slide 35](img/slide-35.jpg)
 
-### Web Assembly
+___
 
+Wow, that is a **_LOT_** to learn! 2020 is looking to be an amazing time to learn about web development, and far more than that too. 
 
-## Other:
-+ Full Stack courses (full web, mern, mean, mevn)
-+ Data structures & algorithms/interviews
-+ Test driven deployment
+But wait, there's **MORE!!**
+
+_gasps_
+
+Udemy is also well known for having all-in-one full stack web development courses, as well as more recently full stack courses with specific technologies, such as MERN, MEAN, and recently MEVN. These 3 all use the same 3 letters: M, E, & N which stand for MongoDB, Express, and Node. The key difference between them is which JavaScript library/framework they use. MERN uses React, MEAN uses Angular, and MEVN uses Vue. You can find courses for these listed below.
+
+Also below are courses for Data Structures & Algorithms, as well as interview prep. JavaScript interviews, especially at large companies like Google, Amazon, Apple, FaceBook, etc., infamously have whiteboard coding challenges, which are based on data structures and algorithms. It is also worth while learning anyways.
+
+And finally, testing, or Test Driven Development (TDD). TDD is actually quite important, so knowing how to test your code will be huge boost to your resume/skill set, and set you apart from other candiates when you start applying for jobs.
+
+## General Full Stack
+
+## MERN
+
+## MEAN
+
+## MEVN
+
+## Data Structures & Algorithms/Interview Prep
+
+## Test / Test Driven Development (TDD)
