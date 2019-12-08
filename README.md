@@ -8,7 +8,7 @@ Watch the [video here](https://www.youtube.com/watch?v=0pThnRneDjw).
 And of course there are other learning platforms besides Udemy, but that is the platform I am personally most familiar and I think is the most popular, so that's what I am going with. So withour further ado, let's get learning!
 
 
-## Tools 1: The Necessities
+## Tools 1 - The Necessities
 ![Slide 3](img/slide-3.jpg)
 
 ### Computer & OS
@@ -105,3 +105,32 @@ And of course there are other learning platforms besides Udemy, but that is the 
 
 ### Advanced JavaScript
 + [Advanced JavaScript Concepts](https://www.udemy.com/course/advanced-javascript-concepts/) by Andrei Neagoie *(216 lectures / 24.5hrs)*
+
+
+
+## Tools 2 - Essential Dev Tools
+![Slide 9](img/slide-9.jpg)
+
+### Git/GitHub
++ [Complete Git Guide: Understand and master Git and GitHub](https://www.udemy.com/course/git-and-github-complete-guide/) by Bogdan Stashchuk *(215 lectures / 18hrs)*
++ [Git & GitHub Masterclass](https://www.udemy.com/course/git-and-github-masterclass/) by Tim Buchalka & Eduardo Rosas *(73 lectures / 11.5hrs)*
++ [Git a Web Developer Job: Mastering the Modern Workflow](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/) by Brad Schiff *(68 lectures / 15hrs)*
++ [Git Complete: The definitive, step-by-step guide to Git](https://www.udemy.com/course/git-complete/) by Jason Taylor *(84 lectures / 6hrs)*
++ [Git Essentials: Learn Git with Bitbucket and Sourcetree](https://www.udemy.com/course/git-with-bitbucket-and-sourcetree/) by Justin Rose *(58 lectures / 2.5hrs)*
++ [Git Github Gitkraken: Version Control without Command Line](https://www.udemy.com/course/git-github-gitkraken-version-control-without-command-line/) by Peter Gunardi *(35 lectures / 2.5hrs)*
++ [GIT: Advanced commands](https://www.udemy.com/course/git-advanced-commands/) by Brian Gorman *(40 lectures / 4hrs)*
++ [GitHub Ultimate: Master Git and GitHub - Beginner to Expert](https://www.udemy.com/course/github-ultimate/) by Jason Taylor *(151 lectures / 6.5hrs)*
+
+
+### NPM
++ [Understanding NPM - Node.js Package Manager](https://www.udemy.com/course/understanding-npm/) by Bogdan Stashchuk *(40 lectures / 2.5hrs)*
+
+### Yarn
++ [Yarn Dependency Management - The Complete Guide](https://www.udemy.com/course/yarn-dependency-management/) by Ray Viljoen *(22 lectures / 1.5hrs)*
+
+### Webpack
++ [Webpack 4 in 2019: The Complete Tutorial For Beginners](https://www.udemy.com/course/webpack-from-beginner-to-advanced/) by Viktor Pyskunov *(51 lectures / 3hrs)*
+
+### A Bit of Everything
++ [Git a Web Developer Job: Mastering the Modern Workflow](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/) by Brad Schiff *(68 lectures / 15hrs)*
++ [JavaScript Infrastructure: CLI, NPM, Babel 7 and Webpack 4](https://www.udemy.com/course/2019-js-infrastructure-course-npm-babel-7-webpack-4/) by OnlyKiosk Tech *(68 lectures / 3.5hrs)*
