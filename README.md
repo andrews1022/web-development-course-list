@@ -1,9 +1,9 @@
 # Web Development In 2020 - A Practical Guide Courses
-It's that time of year again, and Brad Traversy has released his Web Development roadmap for the upcoming year. It is a fantastic resource that I know we are all thankful for. And being a web developer has never been better, and as shown in the video there are a **TON** of technologies at our disposal! But, that can also be rather intimidating for newcomers. So I have comprised a list below of the top Udemy courses for each slide as well for other resources as much as possible. They will listed just in alphabetical order for simplicity. From here, it really is up to you what you want to learn. 
+It's that time of year again, and Brad Traversy has released his Web Development roadmap for the upcoming year. It is a fantastic resource that I know we are all thankful for. And being a web developer has never been better, and as shown in the video there are a **TON** of technologies at our disposal! But, that can also be rather intimidating for newcomers. So I have comprised a list below of the top Udemy courses for each slide as well for other resources as much as possible. They will be listed just in alphabetical order for simplicity. From there, it really is up to you what you want to learn.
 
-And as Brad mentions in the video, you certainly **DO NOT** need to learn everything here. He is just providing you with the options of what you *CAN* learn (and somethings you *SHOULD* learn, such as HTML, CSS, and JavaScript), and explains what these technologies are.
+And as Brad mentions in the video, you certainly **DO NOT** need to learn everything here. He is just providing you with the options of what you *CAN* learn (and somethings you *SHOULD* learn - such as HTML, CSS, and JavaScript), and he explains what these technologies are.
 
-Watch the [video here](https://www.youtube.com/watch?v=0pThnRneDjw).
+**Watch the [video here](https://www.youtube.com/watch?v=0pThnRneDjw).**
 
 And of course there are other learning platforms besides Udemy, but that is the platform I am personally most familiar and I think is the most popular, so that's what I am going with. So withour further ado, let's get learning!
 
@@ -178,5 +178,43 @@ And of course there are other learning platforms besides Udemy, but that is the 
 ![Slide 14](img/slide-14.jpg)
 
 ### Svelte
-+ [Svelte.js - The Complete Guide (incl. Sapper.js)](https://www.udemy.com/course/sveltejs-the-complete-guide/) by Maximilian Schwarzmüller *(196 lectures / 12.5hrs)*
 + [Svelte Tutorial and Projects Course](https://www.udemy.com/course/svelte-tutorial-and-projects-course/) by John Smilga *(148 lectures / 15.5hrs)*
++ [Svelte.js - The Complete Guide (incl. Sapper.js)](https://www.udemy.com/course/sveltejs-the-complete-guide/) by Maximilian Schwarzmüller *(196 lectures / 12.5hrs)*
+
+
+
+## Server Side Rendering
+![Slide 16](img/slide-16.jpg)
+
+### Next
++ [Complete Next.js with React & Node - Beautiful Portfolio App](https://www.udemy.com/course/awesome-nextjs-with-react-and-node-amazing-portfolio-app/) by Filip Jerga *(241 lectures / 38.5hrs)*
++ [Server side rendering with Next + React](https://www.udemy.com/course/server-side-rendering-with-next-react/) by Coding Revolution *(170 lectures / 29.5hrs)*
++ [Universal React with Next.js - The Ultimate Guide](https://www.udemy.com/course/awesome-nextjs-with-react-and-node-amazing-portfolio-app/) by Reed Barger *(90 lectures / 9.5hrs)*
+
+### Nuxt
++ [Nuxt.js - Vue.js on Steroids](https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/) by Maximilian Schwarzmüller *(106 lectures / 6.5hrs)*
+
+
+
+## Static Site Generators
+![Slide 17](img/slide-17.jpg)
+
+### Gatsby
++ [Gatsby JS & Firebase: Build HYBRID realtime + static sites](https://www.udemy.com/course/gatsby-js-firebase-hybrid-realtime-static-sites/) by Tom Phillips *(65 lectures / 5hrs)*
++ [Gatsby JS: Build PWA Blog With GraphQL And React + WordPress](https://www.udemy.com/course/gatsby-js-build-pwa-blog-with-graphql-and-react-wordpress/) by Rangel Stoilov *(42 lectures / 4hrs)*
++ [Gatsby JS: Build static sites with React Wordpress & GraphQL](https://www.udemy.com/course/gatsby-js-react-wordpress-graphql/) by Tom Phillips *(42 lectures / 4hrs)*
++ [Gatsby Tutorial and Projects Course](https://www.udemy.com/course/gatsby-tutorial-and-projects-course/) by John Smilga *(323 lectures / 38.5hrs)*
++ [Gatsby with Wordpress as a headless CMS (2019)](https://www.udemy.com/course/gatsby-with-wordpress/) by Thomas Weibenfalk *(42 lectures / 4hrs)*
++ [The Gatsby Masterclass](https://www.udemy.com/course/the-gatsby-masterclass/) by Reed Barger *(43 lectures / 4hrs)*
+
+### Gridsome
++ [Blazing-Fast Vue and GraphQL with Gridsome](https://www.udemy.com/course/blazing-fast-vue-and-graphql-with-gridsome/) by Reed Barger *(28 lectures / 3hrs)*
+
+
+
+## TypeScript
+![Slide 18](img/slide-18.jpg)
+
+### TypeScript
++ [Understanding TypeScript - 2020 Edition](https://www.udemy.com/course/understanding-typescript/) by Maximilian Schwarzmüller *(351 lectures / 22hrs)*
++ [Typescript: The Complete Developer's Guide [2020]](https://www.udemy.com/course/typescript-the-complete-developers-guide/) by Stephen Grider *(278 lectures / 24.5hrs)*
