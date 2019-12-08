@@ -134,3 +134,49 @@ And of course there are other learning platforms besides Udemy, but that is the 
 ### A Bit of Everything
 + [Git a Web Developer Job: Mastering the Modern Workflow](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/) by Brad Schiff *(68 lectures / 15hrs)*
 + [JavaScript Infrastructure: CLI, NPM, Babel 7 and Webpack 4](https://www.udemy.com/course/2019-js-infrastructure-course-npm-babel-7-webpack-4/) by OnlyKiosk Tech *(68 lectures / 3.5hrs)*
+
+
+
+## Front-End Framework & State Management (Choose One)
+![Slide 13](img/slide-13.jpg)
+![Slide 15](img/slide-15.jpg)
+
+### React
++ [Advanced React and Redux: 2019 Edition](https://www.udemy.com/course/react-redux-tutorial/) by Stephen Grider *(239 lectures / 21hrs)*
++ [Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/) by Andrei Neagoie & Yihua Zhang *(332 lectures / 39.5hrs)*
++ [GraphQL with React: The Complete Developers Guide](https://www.udemy.com/course/graphql-with-react-course/) by Stephen Grider *(115 lectures / 13hrs)*
++ [Modern React with Redux [2019 Update]](https://www.udemy.com/course/react-redux/) by Stephen Grider *(485 lectures / 47.5hrs)*
++ [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) by Maximilian Schwarzmüller *(544 lectures / 44.5hrs)*
++ [React Front To Back 2019](https://www.udemy.com/course/modern-react-front-to-back/) by Brad Traversy *(91 lectures / 14hrs)*
++ [React Tutorial and Projects Course](https://www.udemy.com/course/react-tutorial-and-projects-course/) by John Smilga *(272 lectures / 38hrs)*
++ [The Complete React Developer Course (w/ Hooks and Redux)](https://www.udemy.com/course/react-2nd-edition/) by Andrew Mead *(200 lectures / 39hrs)*
++ [The Complete React Js & Redux Course - Build Modern Web Apps](https://www.udemy.com/course/the-complete-react-js-redux-course-build-modern-web-apps/) by Rob Percival & Rayan Slim *(70 lectures / 8hrs)*
++ [The Modern React Bootcamp (Hooks, Context, NextJS, Router)](https://www.udemy.com/course/modern-react-bootcamp/) by Colt Steele *(312 lectures / 39hrs)*
++ [The React practice course, learn by building projects.](https://www.udemy.com/course/the-react-practice-course-learn-by-building-projects/) by Coding Revolution *(218 lectures / 43.5hrs)*
+
+### Vue
++ [Build Web Apps with Vue JS 2 & Firebase](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/) by Shaun Pelling *(118 lectures / 11.5hrs)*
++ [The complete Vue JS course](https://www.udemy.com/course/the-complete-vue-js-course/) by Coding Revolution *(204 lectures / 25.5hrs)*
++ [The Complete Vue JS Developer Course – inc. Vue JS 2!](https://www.udemy.com/course/vue-js-2-the-full-guide-by-real-apps-vuex-router-node/) by Filip Jerga & Rob Percival *(279 lectures / 44hrs)*
++ [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/course/vuejs-2-the-complete-guide/) by Maximilian Schwarzmüller *(400 lectures / 21.5hrs)*
++ [Vue JS 2: From Beginner to Professional (includes Vuex)](https://www.udemy.com/course/vuejs-from-beginner-to-professional/) by Bo Andersen *(221 lectures / 15.5hrs)*
++ [Vue JS Essentials with Vuex and Vue Router](https://www.udemy.com/course/vue-js-course/) by Stephen Grider *(139 lectures / 10.5hrs)*
+
+### Angular
++ [Angular (Full App) with Angular Material, Angularfire & NgRx](https://www.udemy.com/course/angular-full-app-with-angular-material-angularfire-ngrx/) by Maximilian Schwarzmüller *(141 lectures / 11hrs)*
++ [Angular 8 - The Complete Guide (2019+ Edition)](https://www.udemy.com/course/the-complete-guide-to-angular-2/) by Maximilian Schwarzmüller *(504 lectures / 37hrs)*
++ [Angular Crash Course for Busy Developers](https://www.udemy.com/course/angular-crash-course/) by Mosh Hamedani *(137 lectures / 10.5hrs)*
++ [Angular Essentials (Angular 2+ with TypeScript)](https://www.udemy.com/course/angular-essentials-angular-2-angular-4-with-typescript/) by Maximilian Schwarzmüller *(119 lectures / 6.5hrs)*
++ [Angular Front To Back](https://www.udemy.com/course/angular-4-front-to-back/) by Brad Traversy *(73 lectures / 11.5hrs)*
++ [Learn and Understand AngularJS](https://www.udemy.com/course/learn-angularjs/) by Anthony Alicea *(55 lectures / 7hrs)*
++ [NgRx (with NgRx Data) - The Complete Guide (FREE E-Book)](https://www.udemy.com/course/ngrx-course/) by Angular University *(52 lectures / 6hrs)*
++ [The Complete Angular Course: Beginner to Advanced](https://www.udemy.com/course/the-complete-angular-master-class/) by Mosh Hamedani *(376 lectures / 29.5hrs)*
+
+
+
+## Svelte
+![Slide 14](img/slide-14.jpg)
+
+### Svelte
++ [Svelte.js - The Complete Guide (incl. Sapper.js)](https://www.udemy.com/course/sveltejs-the-complete-guide/) by Maximilian Schwarzmüller *(196 lectures / 12.5hrs)*
++ [Svelte Tutorial and Projects Course](https://www.udemy.com/course/svelte-tutorial-and-projects-course/) by John Smilga *(148 lectures / 15.5hrs)*
