@@ -1,7 +1,7 @@
 # Web Development In 2020 - A Practical Guide Courses
-It's that time of year again, and Brad Traversy has released his Web Development roadmap for the upcoming year. It is a fantastic resource that I know we are all thankful for. And being a web developer has never been better, and as shown in the video there are a **TON** of technologies at our disposal! But, that can also be rather intimidating for newcomers. So I have comprised a list below of the top Udemy courses for each slide as well for other resources as much as possible. They will be listed just in alphabetical order for simplicity. From there, it really is up to you what you want to learn.
+It's that time of year again, and Brad Traversy has released his Web Development roadmap for the upcoming year. It is a fantastic resource that I know we are all thankful for. And being a web developer has never been better, and as shown in the video there are a **TON** of technologies at our disposal! But, that can also be rather intimidating for newcomers. So I have comprised a list below of the top Udemy courses for each slide as well for other resources as much as possible. They will be listed in alphabetical order for simplicity's sake.
 
-And as Brad mentions in the video, you certainly **DO NOT** need to learn everything here. He is just providing you with the options of what you *CAN* learn (and somethings you *SHOULD* learn - such as HTML, CSS, and JavaScript), and he explains what these technologies are.
+And as Brad mentions in the video, you certainly **DO NOT** need to learn everything here. He is just providing you with the options of what you *CAN* learn (and somethings you *SHOULD* learn - such as HTML, CSS, and JavaScript), and he explains what these technologies are. So, it really is up to you what you want to learn.
 
 **Watch the [video here](https://www.youtube.com/watch?v=0pThnRneDjw).**
 
@@ -143,7 +143,7 @@ And of course there are other learning platforms besides Udemy, but that is the 
 
 ### React
 + [Advanced React and Redux: 2019 Edition](https://www.udemy.com/course/react-redux-tutorial/) by Stephen Grider *(239 lectures / 21hrs)*
-+ [Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/) by Andrei Neagoie & Yihua Zhang *(332 lectures / 39.5hrs)*
++ [Complete React Developer 2020 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/) by Andrei Neagoie & Yihua Zhang *(332 lectures / 39.5hrs)*
 + [GraphQL with React: The Complete Developers Guide](https://www.udemy.com/course/graphql-with-react-course/) by Stephen Grider *(115 lectures / 13hrs)*
 + [Modern React with Redux [2019 Update]](https://www.udemy.com/course/react-redux/) by Stephen Grider *(485 lectures / 47.5hrs)*
 + [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) by Maximilian Schwarzmüller *(544 lectures / 44.5hrs)*
