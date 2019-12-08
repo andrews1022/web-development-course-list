@@ -1,20 +1,41 @@
 # Web Development In 2020 - A Practical Guide Courses
-It's that time of year again, and Brad Traversy has released his Web Development roadmap for the upcoming year. It is a fantastic resource that I know we are all thankful for. And being a web developer has never been better, and as shown in the video there are a **TON** of technologies at our disposal! But, that can also be rather intimidating for newcomers. So I have comprised a list below of the top Udemy courses for each slide as well for other resources as much as possible. They will be listed in alphabetical order for simplicity's sake.
+It's that time of year again, and Brad Traversy has released his Web Development roadmap for the upcoming year. It is a fantastic resource that I know we are all thankful for. And being a web developer has never been better, and as shown in the video there are a **TON** of technologies at our disposal! But, that can also be rather intimidating for newcomers. So I have comprised a list below of the top Udemy courses for each slide as well for other resources as much as possible. They will be listed in alphabetical order for simplicity's sake. 
 
-And as Brad mentions in the video, you certainly **DO NOT** need to learn everything here. He is just providing you with the options of what you *CAN* learn (and somethings you *SHOULD* learn - such as HTML, CSS, and JavaScript), and he explains what these technologies are. So, it really is up to you what you want to learn.
+As Brad mentions in the video, you certainly **DO NOT** need to learn everything here. He is just providing you with the options of what you *CAN* learn (and somethings you *SHOULD* learn - such as HTML, CSS, and JavaScript), and he explains what these technologies are. So, it really is up to you what you want to learn.
 
 **Watch the [video here](https://www.youtube.com/watch?v=0pThnRneDjw).**
 
 And of course there are other learning platforms besides Udemy, but that is the platform I am personally most familiar and I think is the most popular, so that's what I am going with. So withour further ado, let's get learning!
+
+Ok first, if Udemy's not your jam, no worries! There are plenty of other sites to learn coding/programming from, which I've listed below:
+
+## Udemy Alternatives
++ [Codecademy](https://www.codecademy.com/)
++ [Coursera](https://www.coursera.org/)
++ [Eduonix](https://www.eduonix.com/)
++ [edX](https://www.edx.org/)
++ [freeCodeCamp](https://www.freecodecamp.org/)
++ [Frontend Masters](https://frontendmasters.com/)
++ [Hacker.io](https://hackr.io/)
++ [Laracasts](https://laracasts.com/)
++ [Lynda](https://www.lynda.com/)
++ [Pluralsight](https://www.pluralsight.com/)
++ [Scrimba](https://scrimba.com/)
++ [Skillshare](https://www.skillshare.com/)
++ [The Odin Project](https://www.theodinproject.com/)
++ [Treehouse](https://teamtreehouse.com/)
++ [Udacity](https://www.udacity.com/)
++ [YouTube](https://www.youtube.com/)
+
 
 
 ## Tools 1 - The Necessities
 ![Slide 3](img/slide-3.jpg)
 
 ### Computer & OS
-- MacOS
-- Windows
-- Linux
++ Linux
++ MacOS
++ Windows
 
 ### Text Editor / IDE
 + [Atom](https://atom.io/)
@@ -335,7 +356,157 @@ And of course there are other learning platforms besides Udemy, but that is the 
 
 
 
-## Server-Side Framework (Choose One)
+## Datebase (Choose One)
 ![Slide 22](img/slide-22.jpg)
 
 ### PostgreSQL
++ [Intro To PostgreSQL Databases With PgAdmin For Beginners](https://www.udemy.com/course/intro-to-postgresql-databases-with-pgadmin/) by John Elder *(24 lectures / 2hrs)*
++ [SQL & Database Design A-Z™: Learn MS SQL Server + PostgreSQL](https://www.udemy.com/course/sqldatabases/) by Kirill Eremenko & Ilya Eremenko *(103 lectures / 12.5hrs)*
++ [SQL & PostgreSQL for Beginners](https://www.udemy.com/course/sql-and-postgresql-for-beginners/) by Jon Avis *(109 lectures / 8hrs)*
++ [Up and Running With PostgreSQL 11](https://www.udemy.com/course/postgres/) by Nelson Djalo *(103 lectures / 12.5hrs)*
+
+### MySQL
++ [MySQL, SQL and Stored Procedures from Beginner to Advanced](https://www.udemy.com/course/mysql-and-sql-from-beginner-to-advanced/) by John Purcell *(136 lectures / 18.5hrs)*
++ [SQL - MySQL for Data Analytics and Business Intelligence](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/) by 365 Careers *(286 lectures / 9.5hrs)*
++ [SQL Beginner to Guru: MySQL Edition - Master SQL with MySQL](https://www.udemy.com/course/sql-beginner-to-guru-mysql-edition/) by John Thompson *(166 lectures / 11hrs)*
++ [SQL for Beginners: Learn SQL using MySQL and Database Design](https://www.udemy.com/course/sql-for-beginners-course/) by Tim Buchalka & Jon Avis *(122 lectures / 8hrs)*
++ [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/) by Colt Steele & Ian Schoonover *(319 lectures / 20hrs)*
+
+### MS SQL
++ [SQL & Database Design A-Z™: Learn MS SQL Server + PostgreSQL](https://www.udemy.com/course/sqldatabases/) by Kirill Eremenko & Ilya Eremenko *(103 lectures / 12.5hrs)*
+
+### MongoDB
++ [MongoDB - The Complete Developer's Guide](https://www.udemy.com/course/mongodb-the-complete-developers-guide/) by Maximilian Schwarzmüller *(263 lectures / 17hrs)*
++ [MongoDB Essentials - Complete MongoDB Guide](https://www.udemy.com/course/mongodb-essentials-m/) by John Purcell *(223 lectures / 10.5hrs)*
++ [The Complete Developers Guide to MongoDB](https://www.udemy.com/course/the-complete-developers-guide-to-mongodb/)by Stephen Grider *(129 lectures / 13.5hrs)*
+
+### CouchDB
++ [Understanding CouchDB : Learn Basic & Advanced NoSQL Skills](https://www.udemy.com/course/understanding-couchdb/) by Greg Miller (aka Mad Pink) *(51 lectures / 6.5hrs)*
+
+### Firebase
++ **NOTE** There aren't really any courses on JUST Firebase specifically, it is usually paired with something else. Popular choices include **Angular**, **Vue**, **iOS**, & **Android**.
+
+### Azure Cloud DB & AWS
+*There are WAY too many course on these, and I am not familiar with them at all so I am not sure what to place here. You will have to search/research them on your own.*
+
+### Redis
++ [Learn Redis from Scratch](https://www.udemy.com/course/learn-redis-from-scratch/) by Eduonix *(32 lectures / 3hrs)*
+
+
+
+## GraphQL
+![Slide 23](img/slide-23.jpg)
+
+### GraphQL
++ [The Modern GraphQL Bootcamp (with Node.js and Apollo)](https://www.udemy.com/course/graphql-bootcamp/) by Andrew Mead *(118 lectures / 23.5hrs)*
++ **NOTE** GraphQL is also usually paired with something else. The most popular of which seem to be **React**, **Node**, & **Gatsby**.
+
+
+
+## Content Management
+![Slide 24](img/slide-24.jpg)
+
+### Wordpress
+### Drupal
+### Keystone
+### Enduro
+### Contentful
+### Prismic.io
+### Sanity
+### Strapi
+
+
+
+## Deployment & DevOps
+![Slide 25](img/slide-25.jpg)
+
+### SSH (Secure Shell)
+### NGINX
+### Apache
+### Linode
+### Heroku
+### Azure
+### Now
+### Docker
+### Vagrant
+
+
+
+## Mobile Development (Choose One)
+![Slide 27](img/slide-27.jpg)
+
+### Flutter/Dart
+### React Native
+### NativeScript
+### Ionic
+### Xamarin
+### Java
+### Kotlin
+### Swift
+
+
+
+## PWA: Progressive Web Apps
+![Slide 28](img/slide-28.jpg)
+
+### Progressive Web Apps
+
+
+
+## Desktop Apps with Electron
+![Slide 29](img/slide-29.jpg)
+
+### Electron
+
+
+
+## JAMstack
+![Slide 30](img/slide-30.jpg)
+
+### JAMstack
+
+
+
+## Serverless Architecture
+![Slide 31](img/slide-31.jpg)
+
+### AWS Lambda
+### Netlify
+
+
+
+## API-First Design
+![Slide 32](img/slide-32.jpg)
+
+### IoT (Internet of Things)
+### REST API
+### Node.js API
+
+
+
+## Machine Learning / AI & The Web
+![Slide 33](img/slide-33.jpg)
+
+### TensorFlow
+### Brain.js
+### Python
+
+
+
+## Speech Recognition
+![Slide 34](img/slide-34.jpg)
+
+### Speech Recognition
+
+
+
+## Web Assembly
+![Slide 35](img/slide-35.jpg)
+
+### Web Assembly
+
+
+## Other:
++ Full Stack courses (full web, mern, mean, mevn)
++ Data structures & algorithms/interviews
++ Test driven deployment
