@@ -5,9 +5,9 @@ As Brad mentions in the video, you certainly **DO NOT** need to learn everything
 
 **Watch the [video here](https://www.youtube.com/watch?v=0pThnRneDjw).**
 
-And of course there are other learning platforms besides Udemy, but that is the platform I am personally most familiar and I think is the most popular, so that's what I am going with. So withour further ado, let's get learning!
+And of course there are other learning platforms besides Udemy, but that is the platform I am personally most familiar with and I think (??) is the most popular, so that's what I am going with. So withour further ado, let's get learning!
 
-Ok first, if Udemy's not your jam, no worries! There are plenty of other sites to learn coding/programming from, which I've listed below:
+First, if Udemy's not your jam, no worries! There are plenty of other sites to learn coding/programming from, which I've listed below:
 
 ## Udemy Alternatives
 + [Codecademy](https://www.codecademy.com/)
@@ -386,8 +386,8 @@ Ok first, if Udemy's not your jam, no worries! There are plenty of other sites t
 ### Firebase
 + **NOTE** There aren't really any courses on JUST Firebase specifically, it is usually paired with something else. Popular choices include **Angular**, **Vue**, **iOS**, & **Android**.
 
-### Azure Cloud DB & AWS
-*There are WAY too many course on these, and I am not familiar with them at all so I am not sure what to place here. You will have to search/research them on your own.*
+### Azure & AWS
++ There are *_WAY_* too many course on these, and I am not familiar with them at all so I am not sure what to place here. You will have to search/research them on your own.
 
 ### Redis
 + [Learn Redis from Scratch](https://www.udemy.com/course/learn-redis-from-scratch/) by Eduonix *(32 lectures / 3hrs)*
@@ -399,7 +399,7 @@ Ok first, if Udemy's not your jam, no worries! There are plenty of other sites t
 
 ### GraphQL
 + [The Modern GraphQL Bootcamp (with Node.js and Apollo)](https://www.udemy.com/course/graphql-bootcamp/) by Andrew Mead *(118 lectures / 23.5hrs)*
-+ **NOTE** GraphQL is also usually paired with something else. The most popular of which seem to be **React**, **Node**, & **Gatsby**.
++ **NOTE:** Similar to Firebase, GraphQL is also usually paired with something else. The most popular of which seem to be **React**, **Node**, & **Gatsby**.
 
 
 
@@ -407,13 +407,18 @@ Ok first, if Udemy's not your jam, no worries! There are plenty of other sites t
 ![Slide 24](img/slide-24.jpg)
 
 ### Wordpress
++ [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/course/wordpress-for-beginners-create-a-website-blog-step-by-step/) by Brad Schiff *(113 lectures / 27hrs)*
++ [Complete WordPress Development Themes and Plugins Course](https://www.udemy.com/course/wordpress-theme-and-plugin-development-course/) by Zac Gordon *(175 lectures / 16hrs)*
++ [The Complete WordPress Aliexpress Dropship course](https://www.udemy.com/course/the-complete-aliexpress-dropshipping-course/) by Tim Sharp *(65 lectures / 4.5hrs)*
++ [The Complete WordPress Website Business Course](https://www.udemy.com/course/the-complete-wordpress-website-business-course/) by Rob Percival & Gregg Davis *(102 lectures / 21.5hrs)*
++ [Wordpress for Beginners - Master Wordpress Quickly](https://www.udemy.com/course/wordpress-for-beginners-course/) by Andrew Williams *(92 lectures / 7.5hrs)*
++ [WordPress for Beginners: Create a Website Step by Step](https://www.udemy.com/course/wordpress-for-beginners-create-a-website-blog-step-by-step/) by Brad Schiff *(23 lectures / 5hrs)*
++ [WordPress Theme Development with Bootstrap](https://www.udemy.com/course/bootstrap-to-wordpress/) by Brad Hussey *(83 lectures / 12hrs)*
+
 ### Drupal
-### Keystone
-### Enduro
-### Contentful
-### Prismic.io
-### Sanity
-### Strapi
++ [Drupal 8 for Beginners](https://www.udemy.com/course/drupal-8-for-beginners/) by Packt Publishing *(37 lectures / 4hrs)*
++ [DRUPAL TUTORIAL: Drupal 8 Beginner to Advanced in 8 PROJECTS](https://www.udemy.com/course/drupal-tutorial/) by Srikanth Shirodkar *(79 lectures / 7.5hrs)*
++ [Learning Drupal 8](https://www.udemy.com/course/learning-drupal-8/) by Infinite Skills *(101 lectures / 9.5hrs)*
 
 
 
@@ -421,14 +426,37 @@ Ok first, if Udemy's not your jam, no worries! There are plenty of other sites t
 ![Slide 25](img/slide-25.jpg)
 
 ### SSH (Secure Shell)
++ [Beginner SSH Secure Shell - Hands on!](https://www.udemy.com/course/sshcourse/) by Patrik Staš *(61 lectures / 4.5hrs)*
++ [Secure Shell Fundamentals - Learn SSH By Configuring It](https://www.udemy.com/course/secure-shell-fundamentals-learn-ssh-by-configuring-it/) by Ted LeRoy *(33 lectures / 3.5hrs)*
+
 ### NGINX
++ [Nginx Fundamentals: High Performance Servers from Scratch](https://www.udemy.com/course/nginx-fundamentals/) by Ray Viljoen *(39 lectures / 4hrs)*
++ [The Perfect Nginx Server - Ubuntu Edition](https://www.udemy.com/course/the-perfect-nginx-server-ubuntu-edition/) by Andrew Eaton *(94 lectures / 9hrs)*
+
 ### Apache
++ [Setup Your Own Web Hosting Environment](https://www.udemy.com/course/setup-your-own-web-hosting-environment/) by Gabriel Avramescu *(17 lectures / 2hrs)*
++ _There a ton of variants when it comes to Apache. There's **Tomcat**, **Kafka**, **Spark**, **Cassandra**, and more. You'll have to do some research on your own which one suits your needs as I am not familiar with this topic myself._
+
 ### Linode
++ [Setup a Virtual Web Server using Linode or Digital Ocean](https://www.udemy.com/course/setup-a-virtual-web-server-using-linode-or-digital-ocean/) by YouAccel Training *(37 lectures / 2.5hrs)*
+
 ### Heroku
-### Azure
-### Now
++ While there aren't really any courses on how to deploy a site to Heroku, there are plent of tutorials over on [YouTube](https://www.youtube.com/results?search_query=deploy+to+heroku) you can use.
+
 ### Docker
++ [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) by Stephen Grider *(299 lectures / 21.5hrs)*
++ [Docker Crash Course for busy DevOps and Developers](https://www.udemy.com/course/docker-tutorial-for-devops-run-docker-containers/) by Tao W. & James Lee *(49 lectures / 3hrs)*
++ [Docker for the Absolute Beginner - Hands On - DevOps](https://www.udemy.com/course/learn-docker/) by Mumshad Mannambeth *(48 lectures / 4hrs)*
++ [Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/) by Bret Fisher *(172 lectures / 19.5hrs)*
++ [Docker Swarm Mastery: DevOps Style Cluster Orchestration](https://www.udemy.com/course/docker-swarm-mastery/) by Bret Fisher *(66 lectures / 9.5hrs)*
+
 ### Vagrant
++ [Vagrant Fundamentals for Achieving DevOps Success](https://www.udemy.com/course/vagrant-fundamentals/) by Craig Dunn *(21 lectures / 1hrs)*
++ [Vagrant Quick Start: Virtualized Development Environments](https://www.udemy.com/course/vagrant-quick-start/) by Jason Taylor *(52 lectures / 2hrs)*
++ [Vagrant Up! Comprehensive development system automation](https://www.udemy.com/course/vagrant-up/) by Jason Taylor *(46 lectures / 4.5hrs)*
+
+### SSL
++ [SSL Complete Guide 2019: HTTP to HTTPS](https://www.udemy.com/course/ssl-complete-guide/) by Bogdan Stashchuk *(109 lectures / 11hrs)*
 
 
 
