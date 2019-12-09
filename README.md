@@ -5,7 +5,7 @@ As Brad mentions in the video, you certainly **DO NOT** need to learn everything
 
 **[Watch the video here](https://www.youtube.com/watch?v=0pThnRneDjw)**
 
-And of course there are other learning platforms besides Udemy, but it's the platform I am personally most familiar with and I think (??) is one of the most popular, so that's what I am going with. So withour further ado, let's get learning!
+And of course there are other learning platforms besides Udemy, but it's the platform I am personally most familiar with and I think (??) is one of the most popular, so that's what I am going with. So without further ado, let's get learning!
 
 But first, if Udemy's not your jam, no worries! There are plenty of other sites to learn from, which I've listed below:
 
@@ -59,7 +59,8 @@ But first, if Udemy's not your jam, no worries! There are plenty of other sites 
 
 ## UI/UX
 + [User Experience Design Essentials - Adobe XD UI UX Design](https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/) by Daniel Walter Scott *(93 lectures / 11.5hrs)*
-While it is true that once you work on a team/for a company, there is very likely going to be a UI/UX Designer, and you will focus on the development aspect of that project. But having even a bit of experience under your belt and a keen eye for design can be greatly beneficial, especically if you want to work as a Front End Developer. The course above by Daniel Walter Scott is perfect for just that. He walks you through the entire processing of being a UI/UX Designer, and you get to use Adobe XD, which is a completely free and fantastic wireframing/design tool.
+
+Now while it is true that once you work on a team/for a company, there is very likely going to be a UI/UX Designer, and you will focus on the development aspect of that project. But having even a bit of experience under your belt and a keen eye for design can be greatly beneficial, especically if you want to work as a Front End Developer. The course above by Daniel Walter Scott is perfect for just that. He walks you through the entire processing of being a UI/UX Designer, and you get to use Adobe XD, which is a completely free and fantastic wireframing/design tool.
 
 
 
@@ -596,9 +597,9 @@ _gasps_
 
 Udemy is also well known for having all-in-one full stack web development courses, as well as more recently full stack courses with specific technologies, such as MERN, MEAN, and recently MEVN. These 3 all use the same 3 letters: M, E, & N which stand for MongoDB, Express, and Node. The key difference between them is which JavaScript library/framework they use. MERN uses React, MEAN uses Angular, and MEVN uses Vue. You can find courses for these listed below.
 
-Also below are courses for Data Structures & Algorithms, as well as interview prep. JavaScript interviews, especially at large companies like Google, Amazon, Apple, FaceBook, etc., are infamous for their whiteboard coding challenges. Below are some of the top courses for Data Structures & Algorithms for JavaScript to help you ace your next interview.
+Also below are courses for Data Structures & Algorithms, as well as interview prep. JavaScript interviews, especially at large companies like Google, Amazon, Apple, Facebook, etc., are infamous for their whiteboard coding challenges. Below are some of the top courses for Data Structures & Algorithms for JavaScript to help you ace your next interview.
 
-And finally, testing, or Test Driven Development (TDD). TDD is actually quite important, so knowing how to test your code will be huge boost to your resume/skill set, and set you apart from other candiates when you start applying for jobs.
+And finally, testing, or Test-Driven Development (TDD). TDD is actually quite important, so knowing how to test your code will be huge boost to your resume/skill set and set you apart from other candidates when you start applying for jobs.
 
 ## Full Stack (Beginner)
 + [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Angela Yu *(408 lectures / 52hrs)*
