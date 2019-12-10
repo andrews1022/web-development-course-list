@@ -111,7 +111,7 @@ Now while it is true that once you work on a team/for a company, there is very l
 ![Slide 8](img/slide-8.jpg)
 
 ### For Beginners
-+ [JavaScript - The Complete Guide 2020 (Beginner + Advanced)](https://www.udemy.com/course/the-complete-javascript-course/) by Maximilian Schwarzmüller *(545 lectures / 46hrs)*
++ [JavaScript - The Complete Guide 2020 (Beginner + Advanced)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/) by Maximilian Schwarzmüller *(545 lectures / 46hrs)*
 + [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/) by Anthony Alicea *(85 lectures / 11.5hrs)*
 + [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/course/learn-javascript-full-stack-from-scratch/) by Brad Schiff *(118 lectures / 27hrs)*
 + [Modern JavaScript (from Novice to Ninja)](https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/) by Shaun Pelling *(173 lectures / 19hrs)*
