@@ -19,6 +19,7 @@ But first, if Udemy's not your jam, no worries! There are plenty of other sites 
 + [Hacker.io](https://hackr.io/)
 + [Laracasts](https://laracasts.com/)
 + [Lynda](https://www.lynda.com/)
++ [Packt](https://courses.packtpub.com/)
 + [Pluralsight](https://www.pluralsight.com/)
 + [Scrimba](https://scrimba.com/)
 + [Skillshare](https://www.skillshare.com/)
@@ -26,7 +27,6 @@ But first, if Udemy's not your jam, no worries! There are plenty of other sites 
 + [Treehouse](https://teamtreehouse.com/)
 + [Udacity](https://www.udacity.com/)
 + [YouTube](https://www.youtube.com/)
-
 
 
 ## Tools 1 - The Necessities
