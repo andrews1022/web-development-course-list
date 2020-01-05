@@ -1,5 +1,5 @@
 # Web Development In 2020 - A Practical Guide Course List
-It's that time of year again, and Brad Traversy has released his Web Development roadmap for the upcoming year. It is a fantastic resource that I know we are all thankful for. And being a web developer has never been better, and as shown in the video there are a **TON** of technologies at our disposal! But, that can also be rather intimidating for newcomers. So I have comprised a list below of the top Udemy courses for each slide as well for other resources, as much as possible, hopefully easing your decision making. Each block of courses are listed in alphabetical order for simplicity's sake. 
+It's that time of year again, and Brad Traversy has released his Web Development roadmap for the upcoming year. It is a fantastic resource that I know we are all thankful for. And being a web developer has never been better, and as shown in the video there are a **TON** of technologies at our disposal! But, that can also be rather intimidating for newcomers. So I have comprised a list below of the top Udemy courses for each slide as well for other resources, as much as possible, hopefully easing your decision making. Each block of courses are listed in alphabetical order for simplicity's sake.
 
 As Brad mentions in the video, you certainly **DO NOT** need to learn everything here. He is just providing you with the options of what you *CAN* learn (and somethings you *SHOULD* learn - such as HTML, CSS, and JavaScript), and he explains what these technologies are. So, it really is up to you what you want to learn.
 
@@ -7,9 +7,10 @@ As Brad mentions in the video, you certainly **DO NOT** need to learn everything
 
 And of course there are other learning platforms besides Udemy, but it's the platform I am personally most familiar with and I think (??) is one of the most popular, so that's what I am going with. So without further ado, let's get learning!
 
-But first, if Udemy's not your jam, no worries! There are plenty of other sites to learn from, which I've listed below:
+But first, if Udemy's not your jam, no worries! There are plenty of other sites to learn from, some of which I've listed below:
 
 ## Udemy Alternatives
++ [AcademicEarth](https://academicearth.org/)
 + [Codecademy](https://www.codecademy.com/)
 + [Coursera](https://www.coursera.org/)
 + [Eduonix](https://www.eduonix.com/)
@@ -17,17 +18,22 @@ But first, if Udemy's not your jam, no worries! There are plenty of other sites 
 + [freeCodeCamp](https://www.freecodecamp.org/)
 + [Frontend Masters](https://frontendmasters.com/)
 + [Hacker.io](https://hackr.io/)
++ [Khan Academy](https://www.khanacademy.org/)
 + [Laracasts](https://laracasts.com/)
++ [Learn X in Y Minutes](https://learnxinyminutes.com/)
++ [Level Up Tutorials](https://www.leveluptutorials.com/)
 + [Lynda](https://www.lynda.com/)
++ [MDN Web Docs](https://developer.mozilla.org)
 + [Pluralsight](https://www.pluralsight.com/)
 + [Scrimba](https://scrimba.com/)
 + [Skillshare](https://www.skillshare.com/)
++ [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 + [The Odin Project](https://www.theodinproject.com/)
 + [Treehouse](https://teamtreehouse.com/)
 + [Udacity](https://www.udacity.com/)
++ [W3Schools](https://www.w3schools.com/)
++ [Wes Bos](https://wesbos.com/)
 + [YouTube](https://www.youtube.com/)
-
-
 
 ## Tools 1 - The Necessities
 ![Slide 3](img/slide-3.jpg)
@@ -37,11 +43,17 @@ But first, if Udemy's not your jam, no worries! There are plenty of other sites 
 + MacOS
 + Windows
 
-### Text Editor / IDE
+### Text Editos
 + [Atom](https://atom.io/)
 + [Brackets](http://brackets.io/)
++ [Komodo Edit](https://www.activestate.com/products/komodo-edit/)
 + [Sublime Text](https://www.sublimetext.com/)
 + [Visual Studio Code](https://code.visualstudio.com/)
+
+### IDEs
++ [JetBrains](https://www.jetbrains.com/) *JetBrains has multiple IDEs for multiple languages*
++ [Komodo IDE](https://www.activestate.com/products/komodo-ide/)
++ [Visual Studio](https://visualstudio.microsoft.com/)
 
 ### Browser
 + [Chrome](https://www.google.com/chrome/)
