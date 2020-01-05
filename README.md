@@ -24,6 +24,7 @@ But first, if Udemy's not your jam, no worries! There are plenty of other sites 
 + [Level Up Tutorials](https://www.leveluptutorials.com/)
 + [Lynda](https://www.lynda.com/)
 + [MDN Web Docs](https://developer.mozilla.org)
++ [Packt](https://www.packtpub.com/)
 + [Pluralsight](https://www.pluralsight.com/)
 + [Scrimba](https://scrimba.com/)
 + [Skillshare](https://www.skillshare.com/)
