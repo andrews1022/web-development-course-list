@@ -374,7 +374,7 @@ Now while it is true that once you work on a team/for a company, there is very l
 
 
 
-## Datebase (Choose One)
+## Database (Choose One)
 ![Slide 22](img/slide-22.jpg)
 
 ### PostgreSQL
