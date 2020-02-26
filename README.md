@@ -648,3 +648,4 @@ And finally, testing, or Test-Driven Development (TDD). TDD is actually quite im
 + [2019 Update! React Testing with Jest and Enzyme](https://www.udemy.com/course/react-testing-with-jest-and-enzyme/) by Bonnie Schulkin *(162 lectures / 12hrs)*
 + [Node.js Unit Testing In-Depth](https://www.udemy.com/course/nodejs-unit-testing-in-depth/) by Murtez Alrohani *(44 lectures / 2.5hrs)*
 + Unfortunately there isn't much on testing for JavaScript on Udemy, but there are numerous, great tutorials for this over on **[YouTube](https://www.youtube.com/results?search_query=javascript+testing)**.
++ [Writing Maintainable Unit Tests](https://www.udemy.com/course/writing-maintainable-unit-tests/) by Jan Van Ryswyck *(41 lectures / 3hrs)*
