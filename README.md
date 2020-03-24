@@ -140,7 +140,7 @@ Now while it is true that once you work on a team/for a company, there is very l
 ### Project Focused
 + [JavaScript 50+ projects and applications Monster JavaScript](https://www.udemy.com/course/javascript-course-projects/) by Laurence Svekis *(632 lectures / 45.5hrs)*
 + [Javascript Tutorial and Projects Course](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/) by John Smilga *(299 lectures / 52.5hrs)*
-
++ [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/) by Brad Traversy *(121 lectures / 16hrs)*
 ### Advanced JavaScript
 + [Advanced JavaScript Concepts](https://www.udemy.com/course/advanced-javascript-concepts/) by Andrei Neagoie *(216 lectures / 24.5hrs)*
 
