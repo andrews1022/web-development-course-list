@@ -99,8 +99,8 @@ Now while it is true that once you work on a team/for a company, there is very l
 ### Sass
 + [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/) by Jonas Schmedtmann *(125 lectures / 28hrs)*
 + [CSS - The Complete Guide 2020 (incl. Flexbox, Grid & Sass)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) by Maximilian Schwarzmüller *(296 lectures / 22.5hrs)*
-+ [SASS - The Complete SASS Course (CSS Preprocessor)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) by Code And Create *(51 lectures / 6hrs)*
-+ [The Complete Sass & SCSS Course: From Beginner to Advanced](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) by Joe Parys *(41 lectures / 4hrs)*
++ [SASS - The Complete SASS Course (CSS Preprocessor)](https://www.udemy.com/course/sass-the-complete-sass-course-css-preprocessor/) by Code And Create *(51 lectures / 6hrs)*
++ [The Complete Sass & SCSS Course: From Beginner to Advanced](https://www.udemy.com/course/sasscourse/) by Joe Parys *(41 lectures / 4hrs)*
 + [The Sass Course! Learn Sass for Real-World Websites](https://www.udemy.com/course/learn-sass/) by Brad Hussey *(18 lectures / 3.5hrs)*
 
 
@@ -124,25 +124,28 @@ Now while it is true that once you work on a team/for a company, there is very l
 ![Slide 8](img/slide-8.jpg)
 
 ### For Beginners
-+ [JavaScript - The Complete Guide 2020 (Beginner + Advanced)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/) by Maximilian Schwarzmüller *(545 lectures / 46hrs)*
++ [JavaScript - The Complete Guide 2020 (Beginner + Advanced)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/) by Maximilian Schwarzmüller *(614 lectures / 52.5hrs)*
 + [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/) by Anthony Alicea *(85 lectures / 11.5hrs)*
-+ [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/course/learn-javascript-full-stack-from-scratch/) by Brad Schiff *(118 lectures / 27hrs)*
++ [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/course/learn-javascript-full-stack-from-scratch/) by Brad Schiff *(119 lectures / 27hrs)*
 + [Modern JavaScript (from Novice to Ninja)](https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/) by Shaun Pelling *(173 lectures / 19hrs)*
-+ [Modern JavaScript From The Beginning](https://www.udemy.com/course/modern-javascript-from-the-beginning/) by Brad Traversy *(121 lectures / 21.5hrs)*
++ [Modern JavaScript From The Beginning](https://www.udemy.com/course/modern-javascript-from-the-beginning/) by Brad Traversy *(122 lectures / 21.5hrs)*
 + [The Complete JavaScript Course 2020: Build Real Projects!](https://www.udemy.com/course/the-complete-javascript-course/) by Jonas Schmedtmann *(166 lectures / 28hrs)*
 + [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/) by Andrew Mead *(155 lectures / 29.5hrs)*
-+ [The New Modern Javascript Bootcamp (2020)](https://www.udemy.com/course/javascript-beginners-complete-tutorial/) by Colt Steele & Stephen Grider *(480 lectures / 52hrs)*
++ [The Modern Javascript Bootcamp Course (2020)](https://www.udemy.com/course/javascript-beginners-complete-tutorial/) by Colt Steele & Stephen Grider *(483 lectures / 52hrs)*
 
 ### ES6 Focused
 + [Accelerated ES6 JavaScript Training](https://www.udemy.com/course/es6-bootcamp-next-generation-javascript/) by Maximilian Schwarzmüller *(115 lectures / 6hrs)*
 + [ES6 Javascript: The Complete Developer's Guide](https://www.udemy.com/course/javascript-es6-tutorial/) by Stephen Grider *(68 lectures / 6hrs)*
 
 ### Project Focused
-+ [JavaScript 50+ projects and applications Monster JavaScript](https://www.udemy.com/course/javascript-course-projects/) by Laurence Svekis *(632 lectures / 45.5hrs)*
-+ [Javascript Tutorial and Projects Course](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/) by John Smilga *(299 lectures / 52.5hrs)*
++ [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/) by Brad Traversy *(121 lectures / 6hrs)*
++ [JavaScript 50+ projects and applications Monster JavaScript](https://www.udemy.com/course/javascript-course-projects/) by Laurence Svekis *(656 lectures / 47.5hrs)*
++ [Javascript Tutorial and Projects Course](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/) by John Smilga *(314 lectures / 53.5hrs)*
 
 ### Advanced JavaScript
++ [Advanced JavaScript](https://www.udemy.com/course/javascript-advanced/) by Asim Hussain *(47 lectures / 6.5hrs)*
 + [Advanced JavaScript Concepts](https://www.udemy.com/course/advanced-javascript-concepts/) by Andrei Neagoie *(216 lectures / 24.5hrs)*
++ [Advanced JavaScript Topics](https://www.udemy.com/course/learn-modern-javascript-advanced-topics/) by Steven Hancock *(89 lectures / 15hrs)*
 
 
 
@@ -167,7 +170,7 @@ Now while it is true that once you work on a team/for a company, there is very l
 + [Yarn Dependency Management - The Complete Guide](https://www.udemy.com/course/yarn-dependency-management/) by Ray Viljoen *(22 lectures / 1.5hrs)*
 
 ### Webpack
-+ [Webpack 4 in 2019: The Complete Tutorial For Beginners](https://www.udemy.com/course/webpack-from-beginner-to-advanced/) by Viktor Pyskunov *(51 lectures / 3hrs)*
++ [Webpack 4 in 2019: The Complete Tutorial For Beginners](https://www.udemy.com/course/webpack-from-beginner-to-advanced/) by Viktor Pyskunov *(52 lectures / 3.5hrs)*
 
 ### A Bit of Everything
 + [Git a Web Developer Job: Mastering the Modern Workflow](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/) by Brad Schiff *(68 lectures / 15hrs)*
@@ -180,15 +183,15 @@ Now while it is true that once you work on a team/for a company, there is very l
 ![Slide 15](img/slide-15.jpg)
 
 ### React
-+ [Advanced React and Redux: 2019 Edition](https://www.udemy.com/course/react-redux-tutorial/) by Stephen Grider *(239 lectures / 21hrs)*
-+ [Complete React Developer 2020 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/) by Andrei Neagoie & Yihua Zhang *(332 lectures / 39.5hrs)*
++ [Advanced React and Redux: 2020 Edition](https://www.udemy.com/course/react-redux-tutorial/) by Stephen Grider *(239 lectures / 21hrs)*
++ [Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/) by Andrei Neagoie & Yihua Zhang *(336 lectures / 40hrs)*
 + [GraphQL with React: The Complete Developers Guide](https://www.udemy.com/course/graphql-with-react-course/) by Stephen Grider *(115 lectures / 13hrs)*
-+ [Modern React with Redux [2019 Update]](https://www.udemy.com/course/react-redux/) by Stephen Grider *(485 lectures / 47.5hrs)*
-+ [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) by Maximilian Schwarzmüller *(544 lectures / 44.5hrs)*
++ [Modern React with Redux [2020 Update]](https://www.udemy.com/course/react-redux/) by Stephen Grider *(487 lectures / 47.5hrs)*
++ [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) by Maximilian Schwarzmüller *(543 lectures / 45hrs)*
 + [React Front To Back 2019](https://www.udemy.com/course/modern-react-front-to-back/) by Brad Traversy *(91 lectures / 14hrs)*
-+ [React Tutorial and Projects Course](https://www.udemy.com/course/react-tutorial-and-projects-course/) by John Smilga *(272 lectures / 38hrs)*
++ [React Tutorial and Projects Course](https://www.udemy.com/course/react-tutorial-and-projects-course/) by John Smilga *(361 lectures / 45.5hrs)*
 + [The Complete React Developer Course (w/ Hooks and Redux)](https://www.udemy.com/course/react-2nd-edition/) by Andrew Mead *(200 lectures / 39hrs)*
-+ [The Complete React Js & Redux Course - Build Modern Web Apps](https://www.udemy.com/course/the-complete-react-js-redux-course-build-modern-web-apps/) by Rob Percival & Rayan Slim *(70 lectures / 8hrs)*
++ [The Complete React Js & Redux Course - Build Modern Web Apps](https://www.udemy.com/course/the-complete-react-js-redux-course-build-modern-web-apps/) by Rob Percival & Rayan Slim *(71 lectures / 8.5hrs)*
 + [The Modern React Bootcamp (Hooks, Context, NextJS, Router)](https://www.udemy.com/course/modern-react-bootcamp/) by Colt Steele *(312 lectures / 39hrs)*
 + [The React practice course, learn by building projects.](https://www.udemy.com/course/the-react-practice-course-learn-by-building-projects/) by Coding Revolution *(218 lectures / 43.5hrs)*
 
@@ -196,13 +199,13 @@ Now while it is true that once you work on a team/for a company, there is very l
 + [Build Web Apps with Vue JS 2 & Firebase](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/) by Shaun Pelling *(118 lectures / 11.5hrs)*
 + [The complete Vue JS course](https://www.udemy.com/course/the-complete-vue-js-course/) by Coding Revolution *(204 lectures / 25.5hrs)*
 + [The Complete Vue JS Developer Course – inc. Vue JS 2!](https://www.udemy.com/course/vue-js-2-the-full-guide-by-real-apps-vuex-router-node/) by Filip Jerga & Rob Percival *(279 lectures / 44hrs)*
-+ [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/course/vuejs-2-the-complete-guide/) by Maximilian Schwarzmüller *(400 lectures / 21.5hrs)*
++ [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/course/vuejs-2-the-complete-guide/) by Maximilian Schwarzmüller *(400 lectures / 22hrs)*
 + [Vue JS 2: From Beginner to Professional (includes Vuex)](https://www.udemy.com/course/vuejs-from-beginner-to-professional/) by Bo Andersen *(221 lectures / 15.5hrs)*
 + [Vue JS Essentials with Vuex and Vue Router](https://www.udemy.com/course/vue-js-course/) by Stephen Grider *(139 lectures / 10.5hrs)*
 
 ### Angular
-+ [Angular (Full App) with Angular Material, Angularfire & NgRx](https://www.udemy.com/course/angular-full-app-with-angular-material-angularfire-ngrx/) by Maximilian Schwarzmüller *(141 lectures / 11hrs)*
-+ [Angular 8 - The Complete Guide (2019+ Edition)](https://www.udemy.com/course/the-complete-guide-to-angular-2/) by Maximilian Schwarzmüller *(504 lectures / 37hrs)*
++ [Angular (Full App) with Angular Material, Angularfire & NgRx](https://www.udemy.com/course/angular-full-app-with-angular-material-angularfire-ngrx/) by Maximilian Schwarzmüller *(140 lectures / 11hrs)*
++ [Angular - The Complete Guide (2020 Edition)](https://www.udemy.com/course/the-complete-guide-to-angular-2/) by Maximilian Schwarzmüller *(503 lectures / 37hrs)*
 + [Angular Crash Course for Busy Developers](https://www.udemy.com/course/angular-crash-course/) by Mosh Hamedani *(137 lectures / 10.5hrs)*
 + [Angular Essentials (Angular 2+ with TypeScript)](https://www.udemy.com/course/angular-essentials-angular-2-angular-4-with-typescript/) by Maximilian Schwarzmüller *(119 lectures / 6.5hrs)*
 + [Angular Front To Back](https://www.udemy.com/course/angular-4-front-to-back/) by Brad Traversy *(73 lectures / 11.5hrs)*
@@ -216,7 +219,7 @@ Now while it is true that once you work on a team/for a company, there is very l
 ![Slide 14](img/slide-14.jpg)
 
 ### Svelte
-+ [Svelte Tutorial and Projects Course](https://www.udemy.com/course/svelte-tutorial-and-projects-course/) by John Smilga *(148 lectures / 15.5hrs)*
++ [Svelte Tutorial and Projects Course](https://www.udemy.com/course/svelte-tutorial-and-projects-course/) by John Smilga *(150 lectures / 15.5hrs)*
 + [Svelte.js - The Complete Guide (incl. Sapper.js)](https://www.udemy.com/course/sveltejs-the-complete-guide/) by Maximilian Schwarzmüller *(196 lectures / 12.5hrs)*
 
 
@@ -227,7 +230,7 @@ Now while it is true that once you work on a team/for a company, there is very l
 ### Next (React)
 + [Complete Next.js with React & Node - Beautiful Portfolio App](https://www.udemy.com/course/awesome-nextjs-with-react-and-node-amazing-portfolio-app/) by Filip Jerga *(241 lectures / 38.5hrs)*
 + [Server side rendering with Next + React](https://www.udemy.com/course/server-side-rendering-with-next-react/) by Coding Revolution *(170 lectures / 29.5hrs)*
-+ [Universal React with Next.js - The Ultimate Guide](https://www.udemy.com/course/awesome-nextjs-with-react-and-node-amazing-portfolio-app/) by Reed Barger *(90 lectures / 9.5hrs)*
++ [Universal React with Next.js - The Ultimate Guide](https://www.udemy.com/course/universal-react-with-nextjs-the-ultimate-guide/) by Reed Barger *(90 lectures / 9.5hrs)*
 
 ### Nuxt (Vue)
 + [Nuxt.js - Vue.js on Steroids](https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/) by Maximilian Schwarzmüller *(106 lectures / 6.5hrs)*
@@ -242,7 +245,7 @@ Now while it is true that once you work on a team/for a company, there is very l
 + [Gatsby JS: Build PWA Blog With GraphQL And React + WordPress](https://www.udemy.com/course/gatsby-js-build-pwa-blog-with-graphql-and-react-wordpress/) by Rangel Stoilov *(42 lectures / 4hrs)*
 + [Gatsby JS: Build static sites with React Wordpress & GraphQL](https://www.udemy.com/course/gatsby-js-react-wordpress-graphql/) by Tom Phillips *(42 lectures / 4hrs)*
 + [Gatsby Tutorial and Projects Course](https://www.udemy.com/course/gatsby-tutorial-and-projects-course/) by John Smilga *(323 lectures / 38.5hrs)*
-+ [Gatsby with Wordpress as a headless CMS (2019)](https://www.udemy.com/course/gatsby-with-wordpress/) by Thomas Weibenfalk *(42 lectures / 4hrs)*
++ [Gatsby with Wordpress as a headless CMS (2019)](https://www.udemy.com/course/gatsby-with-wordpress/) by Thomas Weibenfalk *(29 lectures / 6hrs)*
 + [The Gatsby Masterclass](https://www.udemy.com/course/the-gatsby-masterclass/) by Reed Barger *(43 lectures / 4hrs)*
 
 ### Gridsome (Vue)
@@ -255,7 +258,7 @@ Now while it is true that once you work on a team/for a company, there is very l
 
 ### TypeScript
 + [Typescript: The Complete Developer's Guide [2020]](https://www.udemy.com/course/typescript-the-complete-developers-guide/) by Stephen Grider *(278 lectures / 24.5hrs)*
-+ [Understanding TypeScript - 2020 Edition](https://www.udemy.com/course/understanding-typescript/) by Maximilian Schwarzmüller *(351 lectures / 22hrs)*
++ [Understanding TypeScript - 2020 Edition](https://www.udemy.com/course/understanding-typescript/) by Maximilian Schwarzmüller *(352 lectures / 22hrs)*
 
 
 
@@ -615,32 +618,32 @@ Also below are courses for Data Structures & Algorithms, as well as interview pr
 And finally, testing, or Test-Driven Development (TDD). TDD is actually quite important, so knowing how to test your code will be huge boost to your resume/skill set and set you apart from other candidates when you start applying for jobs.
 
 ## Full Stack (Beginner)
-+ [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Angela Yu *(408 lectures / 52hrs)*
++ [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Angela Yu *(480 lectures / 54hrs)*
 + [The Complete Web Developer Course 2.0](https://www.udemy.com/course/the-complete-web-developer-course-2/) by Rob Percival *(308 lectures / 30.5hrs)*
-+ [The Complete Web Developer in 2020: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) by Andrei Neagoie *(333 lectures / 35hrs)*
++ [The Complete Web Developer in 2020: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) by Andrei Neagoie *(335 lectures / 35hrs)*
 + [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) by Colt Steele *(402 lectures / 47hrs)*
 
 ## Full Stack (Advanced)
 + [The Advanced Web Developer Bootcamp](https://www.udemy.com/course/the-advanced-web-developer-bootcamp/) by Colt Steele, Elie Schoppik, Tim Garcia, & Matt Lane *(391 lectures / 34hrs)*
-+ [The Complete Junior to Senior Web Developer Roadmap (2020)](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/) by Andrei Neagoie *(392 lectures / 35.5hrs)*
++ [The Complete Junior to Senior Web Developer Roadmap (2020)](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/) by Andrei Neagoie *(394 lectures / 35.5hrs)*
 
 ## MERN
-+ [MERN Stack - React Node from Scratch Building Social Network](https://www.udemy.com/course/node-react/) by Ryan Dhungel *(230 lectures / 21.5hrs)*
-+ [MERN Stack - The Complete Guide](https://www.udemy.com/course/mern-stack-the-complete-guide/) by Reed Barger *(43 lectures / 8.5hrs)*
++ [MERN Stack - React Node from Scratch Building Social Network](https://www.udemy.com/course/node-react/) by Ryan Dhungel *(234 lectures / 21.5hrs)*
++ [MERN Stack - The Complete Guide](https://www.udemy.com/course/mern-stack-the-complete-guide/) by Reed Barger *(44 lectures / 8.5hrs)*
 + [MERN Stack Front To Back: Full Stack React, Redux & Node.js](https://www.udemy.com/course/mern-stack-front-to-back/) by Brad Traversy *(73 lectures / 12hrs)*
-+ [MERN Stack React Node Ecommerce from Scratch to Deployment](https://www.udemy.com/course/react-node-ecommerce/) by Ryan Dhungel *(185 lectures / 16.5hrs)*
-+ [MERN Stack React Node Multi User Blogging Platform with SEO](https://www.udemy.com/course/react-node-nextjs-fullstack-multi-user-blogging-platform-with-seo/) by Ryan Dhungel *(165 lectures / 20.5hrs)*
++ [MERN Stack React Node Ecommerce from Scratch to Deployment](https://www.udemy.com/course/react-node-ecommerce/) by Ryan Dhungel *(162 lectures / 16.5hrs)*
++ [MERN Stack React Node Multi User Blogging Platform with SEO](https://www.udemy.com/course/react-node-nextjs-fullstack-multi-user-blogging-platform-with-seo/) by Ryan Dhungel *(170 lectures / 21hrs)*
 + [MERN Stack Web Development with Ultimate Authentication](https://www.udemy.com/course/mern-stack/) by Ryan Dhungel *(82 lectures / 9.5hrs)*
 + [Node with React: Fullstack Web Development](https://www.udemy.com/course/node-with-react-fullstack-web-development/) by Stephen Grider *(207 lectures / 26hrs)*
 + [React, NodeJS, Express & MongoDB - The MERN Fullstack Guide](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/) by Maximilian Schwarzmüller & Manuel Lorenz *(206 lectures / 19hrs)*
-+ [The Complete React Fullstack Course](https://www.udemy.com/course/the-complete-react-fullstack-course/) by Coding Revolution *(285 lectures / 44.5hrs)*
++ [The complete React Fullstack course ( 2nd edition )](https://www.udemy.com/course/the-complete-react-fullstack-course/) by Coding Revolution *(455 lectures / 73hrs)*
 
 ## MEAN
-+ [Angular & NodeJS - The MEAN Stack Guide](https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/) by Maximilian Schwarzmüller *(149 lectures / 12.5hrs)*
++ [Angular & NodeJS - The MEAN Stack Guide [2020 Edition]](https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/) by Maximilian Schwarzmüller *(149 lectures / 13hrs)*
 
 ## Data Structures & Algorithms/Interview Prep
 + [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) by Colt Steele *(249 lectures / 22hrs)*
-+ [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) by Andrei Neagoie *(254 lectures / 19.5hrs)*
++ [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) by Andrei Neagoie *(259 lectures / 19.5hrs)*
 + [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/) by Stephen Grider *(135 lectures / 13hrs)*
 + [Ultimate JavaScript Interview Course](https://www.udemy.com/course/ultimate-javascript-interview-course/) by Eric Traub *(243 lectures / 11hrs)*
 
