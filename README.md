@@ -539,7 +539,7 @@ Now while it is true that once you work on a team/for a company, there is very l
 
 ### Electron
 + [Electron for Desktop Apps: The Complete Developer's Guide](https://www.udemy.com/course/electron-react-tutorial/) by Stephen Grider *(77 lectures / 8hrs)*
-+ [Master Electron: Desktop Apps with HTML, JavaScript & CSS](https://www.udemy.com/course/master-electron/) by Maximilian Schwarzmüller *(57 lectures / 7.5hrs)*
++ [Master Electron: Desktop Apps with HTML, JavaScript & CSS](https://www.udemy.com/course/master-electron/) by Ray Viljoen *(57 lectures / 7.5hrs)*
 
 
 
