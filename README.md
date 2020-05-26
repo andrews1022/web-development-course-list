@@ -539,7 +539,7 @@ Now while it is true that once you work on a team/for a company, there is very l
 
 ### Electron
 + [Electron for Desktop Apps: The Complete Developer's Guide](https://www.udemy.com/course/electron-react-tutorial/) by Stephen Grider *(77 lectures / 8hrs)*
-+ [Master Electron: Desktop Apps with HTML, JavaScript & CSS](https://www.udemy.com/course/master-electron/) by Maximilian Schwarzmüller *(57 lectures / 7.5hrs)*
++ [Master Electron: Desktop Apps with HTML, JavaScript & CSS](https://www.udemy.com/course/master-electron/) by Ray Viljoen *(57 lectures / 7.5hrs)*
 
 
 
@@ -618,14 +618,14 @@ Also below are courses for Data Structures & Algorithms, as well as interview pr
 And finally, testing, or Test-Driven Development (TDD). TDD is actually quite important, so knowing how to test your code will be huge boost to your resume/skill set and set you apart from other candidates when you start applying for jobs.
 
 ## Full Stack (Beginner)
-+ [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Angela Yu *(480 lectures / 54hrs)*
++ [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Angela Yu *(468 lectures / 54hrs)*
 + [The Complete Web Developer Course 2.0](https://www.udemy.com/course/the-complete-web-developer-course-2/) by Rob Percival *(308 lectures / 30.5hrs)*
-+ [The Complete Web Developer in 2020: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) by Andrei Neagoie *(335 lectures / 35hrs)*
-+ [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) by Colt Steele *(402 lectures / 47hrs)*
++ [The Complete Web Developer in 2020: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) by Andrei Neagoie *(340 lectures / 35hrs)*
++ [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) by Colt Steele *(404 lectures / 47hrs)*
 
 ## Full Stack (Advanced)
 + [The Advanced Web Developer Bootcamp](https://www.udemy.com/course/the-advanced-web-developer-bootcamp/) by Colt Steele, Elie Schoppik, Tim Garcia, & Matt Lane *(391 lectures / 34hrs)*
-+ [The Complete Junior to Senior Web Developer Roadmap (2020)](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/) by Andrei Neagoie *(394 lectures / 35.5hrs)*
++ [The Complete Junior to Senior Web Developer Roadmap (2020)](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/) by Andrei Neagoie *(395 lectures / 35.5hrs)*
 
 ## MERN
 + [MERN Stack - React Node from Scratch Building Social Network](https://www.udemy.com/course/node-react/) by Ryan Dhungel *(234 lectures / 21.5hrs)*
