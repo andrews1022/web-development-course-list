@@ -11,6 +11,7 @@ But first, if Udemy's not your jam, no worries! There are plenty of other sites 
 
 ## Udemy Alternatives
 + [AcademicEarth](https://academicearth.org/)
++ [Classpert](https://classpert.com/)
 + [Codecademy](https://www.codecademy.com/)
 + [Coursera](https://www.coursera.org/)
 + [Eduonix](https://www.eduonix.com/)
