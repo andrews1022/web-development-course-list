@@ -313,7 +313,7 @@ Now while it is true that once you work on a team/for a company, there is very l
 - [PHP for Beginners - Become a PHP Master - CMS Project](https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented/) by Edwin Diaz _(344 lectures / 38hrs)_
 - [PHP OOP: Object Oriented Programming for beginners + Project](https://www.udemy.com/course/oop-php-object-oriented-programing-with-project-1-course/) by Edwin Diaz _(224 lectures / 18.5hrs)_
 
-### C
+### C Sharp (C#)
 
 - [C# Advanced Topics: Prepare for Technical Interviews](https://www.udemy.com/course/csharp-advanced/) by Mosh Hamedani _(21 lectures / 3hrs)_
 - [C# Basics for Beginners: Learn C# Fundamentals by Coding](https://www.udemy.com/course/csharp-tutorial-for-beginners/) by Mosh Hamedani _(87 lectures / 5hrs)_
