@@ -37,6 +37,8 @@ But first, if Udemy's not your jam, no worries! There are plenty of other sites 
 - [W3Schools](https://www.w3schools.com/)
 - [Wes Bos](https://wesbos.com/)
 - [YouTube](https://www.youtube.com/)
+- [Edureka!]
+- [Skillshare]
 
 ## Tools 1 - The Necessities
 
