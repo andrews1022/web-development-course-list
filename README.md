@@ -6,7 +6,7 @@ As Brad mentions in the video, you certainly **DO NOT** need to learn everything
 
 **[Watch the video here](https://www.youtube.com/watch?v=0pThnRneDjw)**
 
-And of course there are other learning platforms besides Udemy, but it's the platform I am personally most familiar with and I think (??) is one of the most popular, so that's what I am going with. So without further ado, let's get learning!
+And of course there are many other interesting and very good learning platforms besides Udemy, but it's the platform I am personally most familiar with and I think (??) is one of the most popular, so that's what I am going with. So without further ado, let's get learning!
 
 But first, if Udemy's not your jam, no worries! There are plenty of other sites to learn from, some of which I've listed below:
 
