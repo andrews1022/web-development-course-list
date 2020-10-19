@@ -1,4 +1,4 @@
-# Web Development In 2020 - A Practical Guide Course List
+# WebApp Development In 2020 - A Practical Guide Course List
 
 It's that time of year again, and Brad Traversy has released his Web Development roadmap for the upcoming year. It is a fantastic resource that I know we are all thankful for. And being a web developer has never been better, and as shown in the video there are a **TON** of technologies at our disposal! But, that can also be rather intimidating for newcomers. So I have comprised a list below of the top Udemy courses for each slide as well for other resources, as much as possible, hopefully easing your decision making. Each block of courses are listed in alphabetical order for simplicity's sake.
 
