@@ -153,7 +153,8 @@ Now while it is true that once you work on a team/for a company, there is very l
 
 - [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/) by Brad Traversy _(121 lectures / 16hrs)_
 - [JavaScript 2020 Build 55+ Real Projects Games Pure JS code](https://www.udemy.com/course/javascript-course-projects/) by Laurence Svekis _(687 lectures / 50hrs)_
-- [Javascript Tutorial and Projects Course](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/) by John Smilga _(329 lectures / 47hrs)_
+- [Javascript Tutorial and Projects Course](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/) by John Smilga _(372 lectures / 43hrs)_
+- [JavaScript Web Projects: 20 Projects to Build Your Portfolio](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/) by Andrei Neagoie & Jacinto Wong _(232 lectures / 33hrs)_
 
 ### Advanced JavaScript
 
@@ -200,17 +201,23 @@ Now while it is true that once you work on a team/for a company, there is very l
 
 ### React
 
-- [Advanced React and Redux: 2020 Edition](https://www.udemy.com/course/react-redux-tutorial/) by Stephen Grider _(239 lectures / 21hrs)_
 - [Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/) by Andrei Neagoie & Yihua Zhang _(336 lectures / 40hrs)_
 - [GraphQL with React: The Complete Developers Guide](https://www.udemy.com/course/graphql-with-react-course/) by Stephen Grider _(115 lectures / 13hrs)_
 - [Modern React with Redux [2020 Update]](https://www.udemy.com/course/react-redux/) by Stephen Grider _(487 lectures / 47.5hrs)_
 - [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) by Maximilian Schwarzmüller _(543 lectures / 45hrs)_
 - [React Front To Back](https://www.udemy.com/course/modern-react-front-to-back/) by Brad Traversy _(91 lectures / 14hrs)_
-- [React Tutorial and Projects Course](https://www.udemy.com/course/react-tutorial-and-projects-course/) by John Smilga _(361 lectures / 45.5hrs)_
 - [The Complete React Developer Course (w/ Hooks and Redux)](https://www.udemy.com/course/react-2nd-edition/) by Andrew Mead _(200 lectures / 39hrs)_
 - [The Complete React Js & Redux Course - Build Modern Web Apps](https://www.udemy.com/course/the-complete-react-js-redux-course-build-modern-web-apps/) by Rob Percival & Rayan Slim _(71 lectures / 8.5hrs)_
 - [The Modern React Bootcamp (Hooks, Context, NextJS, Router)](https://www.udemy.com/course/modern-react-bootcamp/) by Colt Steele _(312 lectures / 39hrs)_
-- [The React practice course, learn by building projects.](https://www.udemy.com/course/the-react-practice-course-learn-by-building-projects/) by Coding Revolution _(218 lectures / 43.5hrs)_
+
+### React - Project Focused
+
+- [The React practice course, learn by building projects.](https://www.udemy.com/course/the-react-practice-course-learn-by-building-projects/) by Coding Revolution _(218 lectures / 44hrs)_
+- [React Tutorial and Projects Course](https://www.udemy.com/course/react-tutorial-and-projects-course/) by John Smilga _(361 lectures / 39hrs)_
+
+### React - Advanced
+
+- [Advanced React and Redux: 2020 Edition](https://www.udemy.com/course/react-redux-tutorial/) by Stephen Grider _(239 lectures / 21hrs)_
 
 ### Vue
 
