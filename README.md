@@ -1,10 +1,10 @@
-# Web Development In 2020 - A Practical Guide Course List
+# Web Development In 2021 - A Practical Guide Course List
 
-It's that time of year again, and Brad Traversy has released his Web Development roadmap for the upcoming year. It is a fantastic resource that I know we are all thankful for. And being a web developer has never been better, and as shown in the video there are a **TON** of technologies at our disposal! But, that can also be rather intimidating for newcomers. So I have comprised a list below of the top Udemy courses for each slide as well for other resources, as much as possible, hopefully easing your decision making. Each block of courses are listed in alphabetical order for simplicity's sake.
+It's that time of year again, and Brad Traversy has released his annual Web Development roadmap for the upcoming year. It is a fantastic resource that I know we are all thankful for. And being a web developer has never been better, and as shown in the video, there are a **TON** of technologies at our disposal! However, this can also be quite intimidating for beginners. So I have comprised a list below of the top Udemy courses for each slide as well some other resources, hopefully easing your decision making. Each block of courses are listed in alphabetical order for simplicity's sake.
 
-As Brad mentions in the video, you certainly **DO NOT** need to learn everything here. He is just providing you with the options of what you _CAN_ learn (and somethings you _SHOULD_ learn - such as HTML, CSS, and JavaScript), and he explains what these technologies are. So, it really is up to you what you want to learn.
+You certainly **DO NOT** need to learn everything here. This list aims to simply provide you with the options of what you _CAN_ learn (and some things you _SHOULD_ learn - such as HTML, CSS, and JavaScript). So, it really is up to you what you want to learn.
 
-**[Watch the video here](https://www.youtube.com/watch?v=0pThnRneDjw)**
+**[Watch the video here](https://www.youtube.com/watch?v=VfGW0Qiy2I0)**
 
 And of course there are other learning platforms besides Udemy, but it's the platform I am personally most familiar with and I think (??) is one of the most popular, so that's what I am going with. So without further ado, let's get learning!
 
@@ -38,9 +38,9 @@ But first, if Udemy's not your jam, no worries! There are plenty of other sites 
 - [Wes Bos](https://wesbos.com/)
 - [YouTube](https://www.youtube.com/)
 
-## Tools 1 - The Necessities
+## Getting Started - Basic Tools
 
-![Slide 3](img/slide-3.jpg)
+![Slide 3](img/2021/slide-01.jpg)
 
 ### Computer & OS
 
@@ -54,6 +54,7 @@ But first, if Udemy's not your jam, no worries! There are plenty of other sites 
 - [Brackets](http://brackets.io/)
 - [Komodo Edit](https://www.activestate.com/products/komodo-edit/)
 - [Sublime Text](https://www.sublimetext.com/)
+- [VIM](https://www.vim.org/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
 ### IDEs
@@ -62,7 +63,7 @@ But first, if Udemy's not your jam, no worries! There are plenty of other sites 
 - [Komodo IDE](https://www.activestate.com/products/komodo-ide/)
 - [Visual Studio](https://visualstudio.microsoft.com/)
 
-### Browser
+### Web Browsers
 
 - [Chrome](https://www.google.com/chrome/)
 - [Firefox](https://www.mozilla.org/en-CA/firefox/)
