@@ -113,8 +113,6 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ![Slide 4](img/2021/slide-04.jpg)
 
-### Tailwind
-
 ### Bootstrap
 
 - [Bootstrap 4 - Create 4 Real World Projects](https://www.udemy.com/course/bootstrap-4-create-4-real-world-projects-latest-411/) by Code And Create _(64 lectures / 10hrs)_
@@ -213,8 +211,8 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ## Deployment - Basic Front End Deployment
 
-![Slide 8](img/slide-08.jpg)
-![Slide 9](img/slide-09.jpg)
+![Slide 8](img/2021/slide-08.jpg)
+![Slide 9](img/2021/slide-09.jpg)
 
 ### GitHub Pages
 
@@ -226,7 +224,7 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ## Front End Superstar - Front End Framework & State Management (Choose One)
 
-![Slide 10](img/slide-10.jpg)
+![Slide 10](img/2021/slide-10.jpg)
 
 ### React
 
