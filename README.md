@@ -1,14 +1,14 @@
 # Web Development In 2021 - A Practical Guide Course List
 
-It's that time of year again, and Brad Traversy has released his annual Web Development roadmap for the upcoming year. It is a fantastic resource that I know we are all thankful for. And being a web developer has never been better, and as shown in the video, there are a **TON** of technologies at our disposal! However, this can also be quite intimidating for beginners. So I have comprised a list below of the top Udemy courses for each slide as well some other resources, hopefully easing your decision making. Each block of courses are listed in alphabetical order for simplicity's sake.
+It's that time of year again, and Brad Traversy has released his annual Web Development roadmap for the upcoming year. It is a fantastic resource that I know we are all thankful for. And being a web developer has never been better, and as shown in the video, there are a **TON** of technologies at our disposal! However, this can also be quite intimidating for beginners. So, I have comprised a list below of the top Udemy courses for each slide as well some other resources, hopefully easing your decision making. Each block of courses is listed in alphabetical order for simplicity's sake.
 
 You certainly **DO NOT** need to learn everything here. This list aims to simply provide you with the options of what you _CAN_ learn (and some things you _SHOULD_ learn - such as HTML, CSS, and JavaScript). So, it really is up to you what you want to learn.
 
 **[Watch the video here](https://www.youtube.com/watch?v=VfGW0Qiy2I0)**
 
-And of course there are other learning platforms besides Udemy, but it's the platform I am personally most familiar with and I think (??) is one of the most popular, so that's what I am going with. So without further ado, let's get learning!
+And of course, there are other learning platforms besides Udemy. But it's the platform I am personally most familiar with and I think one of the most popular, so that's what I am going with. So, without further ado, let's get learning!
 
-But first, if Udemy's not your jam, no worries! There are plenty of other sites to learn from, some of which I've listed below:
+If Udemy's not your jam though, no worries! There are plenty of other resources to learn about web development from, some of which I've listed below:
 
 ## Udemy Alternatives
 
@@ -40,7 +40,7 @@ But first, if Udemy's not your jam, no worries! There are plenty of other sites 
 
 ## Getting Started - Basic Tools
 
-![Slide 3](img/2021/slide-01.jpg)
+![Slide 1](img/2021/slide-01.jpg)
 
 ### Computer & OS
 
@@ -66,8 +66,10 @@ But first, if Udemy's not your jam, no worries! There are plenty of other sites 
 ### Web Browsers
 
 - [Chrome](https://www.google.com/chrome/)
+- [Edge](https://www.microsoft.com/en-us/edge)
 - [Firefox](https://www.mozilla.org/en-CA/firefox/)
 - [Opera](https://www.opera.com/)
+- [Safari](https://www.apple.com/ca/safari/)
 
 ### Design
 
@@ -79,22 +81,15 @@ But first, if Udemy's not your jam, no worries! There are plenty of other sites 
 - [InVision](https://www.invisionapp.com/)
 - [Sketch](https://www.sketch.com/)
 
-## UI/UX
+## The Building Blocks - HTML & CSS
 
-- [User Experience Design Essentials - Adobe XD UI UX Design](https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/) by Daniel Walter Scott _(93 lectures / 11.5hrs)_
-
-Now while it is true that once you work on a team/for a company, there is very likely going to be a UI/UX Designer, and you will focus on the development aspect of that project. But having even a bit of experience under your belt and a keen eye for design can be greatly beneficial, especially if you want to work as a Front-End Developer. The course above by Daniel Walter Scott is perfect for just that. He walks you through the entire processing of being a UI/UX Designer, and you get to use Adobe XD, which is a completely free and fantastic wireframing/design tool.
-
-## The Building Blocks & Responsive Design
-
-![Slide 4](img/slide-4.jpg)
-![Slide 5](img/slide-5.jpg)
+![Slide 2](img/2021/slide-02.jpg)
 
 ### HTML & CSS
 
 - [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) by Jonas Schmedtmann _(77 lectures / 12hrs)_
-- [Modern HTML & CSS From The Beginning (Including Sass)](https://www.udemy.com/course/modern-html-css-from-the-beginning/) by Brad Traversy _(128 lectures / 21hrs)_
-- [Web Design for Beginners: Real World Coding in HTML & CSS](https://www.udemy.com/course/web-design-for-beginners-real-world-coding-in-html-css/) by Brad Schiff _(59 lectures / 9hrs)_
+- [Modern HTML & CSS From The Beginning (Including Sass)](https://www.udemy.com/course/modern-html-css-from-the-beginning/) by Brad Traversy _(129 lectures / 21hrs)_
+- [Web Design for Beginners: Real World Coding in HTML & CSS](https://www.udemy.com/course/web-design-for-beginners-real-world-coding-in-html-css/) by Brad Schiff _(71 lectures / 11hrs)_
 
 ### CSS
 
@@ -102,9 +97,9 @@ Now while it is true that once you work on a team/for a company, there is very l
 - [CSS - The Complete Guide 2020 (incl. Flexbox, Grid & Sass)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) by Maximilian Schwarzmüller _(296 lectures / 22.5hrs)_
 - [CSS Bootcamp - Master CSS (Including CSS Grid / Flexbox)](https://www.udemy.com/course/css-bootcamp-master-in-css-including-css-grid-flexbox/) by Code And Create _(89 lectures / 11.5hrs)_
 
-## Custom Reusable CSS Components
+## The Building Blocks - Sass
 
-![Slide 6](img/slide-6.jpg)
+![Slide 3](img/2021/slide-03.jpg)
 
 ### Sass
 
@@ -114,9 +109,11 @@ Now while it is true that once you work on a team/for a company, there is very l
 - [The Complete Sass & SCSS Course: From Beginner to Advanced](https://www.udemy.com/course/sasscourse/) by Joe Parys _(41 lectures / 4hrs)_
 - [The Sass Course! Learn Sass for Real-World Websites](https://www.udemy.com/course/learn-sass/) by Brad Hussey _(18 lectures / 3.5hrs)_
 
-## CSS Frameworks (Choose One)
+## The Building Blocks - CSS/UI Frameworks (Choose One)
 
-![Slide 7](img/slide-7.jpg)
+![Slide 4](img/2021/slide-04.jpg)
+
+### Tailwind
 
 ### Bootstrap
 
@@ -128,20 +125,34 @@ Now while it is true that once you work on a team/for a company, there is very l
 
 ### Materialize
 
+- [Master Materialize and code 3 projects with 9 pages](https://www.udemy.com/course/materialize-responsive-web-design-and-development/) by Jeppe Schaumburg Jensen _(94 lectures / 9hrs)_
 - [Materialize CSS From Scratch With 5 Projects](https://www.udemy.com/course/materialize-css-from-scratch-with-5-projects/) by Brad Traversy _(63 lectures / 10.5hrs)_
 
-## Vanilla JavaScript
+### Bulma
 
-![Slide 8](img/slide-8.jpg)
+- [Master Bulma CSS framework and code 4 projects with 14 pages](https://www.udemy.com/course/bulma-responsive-web-design-and-development/) by Jeppe Schaumburg Jensen _(127 lectures / 13hrs)_
+
+## The Building Blocks - UI Design
+
+![Slide 5](img/2021/slide-05.jpg)
+
+## UI/UX
+
+- [Learn Figma - UI/UX Design Essential Training](https://www.udemy.com/course/learn-figma/) by Caleb Kingston _(47 lectures / 4hrs)_
+- [User Experience Design Essentials - Adobe XD UI UX Design](https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/) by Daniel Walter Scott _(94 lectures / 13hrs)_
+
+## The Building Blocks - Vanilla JavaScript
+
+![Slide 6](img/2021/slide-06.jpg)
 
 ### For Beginners
 
-- [JavaScript - The Complete Guide 2020 (Beginner + Advanced)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/) by Maximilian Schwarzmüller _(614 lectures / 52.5hrs)_
+- [JavaScript - The Complete Guide 2021 (Beginner + Advanced)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/) by Maximilian Schwarzmüller _(615 lectures / 52.5hrs)_
 - [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/) by Anthony Alicea _(85 lectures / 11.5hrs)_
 - [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/course/learn-javascript-full-stack-from-scratch/) by Brad Schiff _(119 lectures / 27hrs)_
-- [Modern JavaScript (from Novice to Ninja)](https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/) by Shaun Pelling _(173 lectures / 19hrs)_
+- [Modern JavaScript (Complete guide, from Novice to Ninja)](https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/) by Shaun Pelling _(173 lectures / 19hrs)_
 - [Modern JavaScript From The Beginning](https://www.udemy.com/course/modern-javascript-from-the-beginning/) by Brad Traversy _(122 lectures / 21.5hrs)_
-- [The Complete JavaScript Course 2020: Build Real Projects!](https://www.udemy.com/course/the-complete-javascript-course/) by Jonas Schmedtmann _(166 lectures / 28hrs)_
+- [The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) by Jonas Schmedtmann _(310 lectures / 67hrs)_
 - [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/) by Andrew Mead _(155 lectures / 29.5hrs)_
 - [The Modern Javascript Bootcamp Course (2020)](https://www.udemy.com/course/javascript-beginners-complete-tutorial/) by Colt Steele & Stephen Grider _(483 lectures / 52hrs)_
 
@@ -153,25 +164,26 @@ Now while it is true that once you work on a team/for a company, there is very l
 ### Project Focused
 
 - [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/) by Brad Traversy _(121 lectures / 16hrs)_
-- [JavaScript 2020 Build 55+ Real Projects Games Pure JS code](https://www.udemy.com/course/javascript-course-projects/) by Laurence Svekis _(687 lectures / 50hrs)_
-- [Javascript Tutorial and Projects Course](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/) by John Smilga _(372 lectures / 43hrs)_
-- [JavaScript Web Projects: 20 Projects to Build Your Portfolio](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/) by Andrei Neagoie & Jacinto Wong _(232 lectures / 33hrs)_
+- [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) by Brad Traversy & Florin Pop _(164 lectures / 18.5hrs)_
+- [JavaScript 2020 Build 55+ Real Projects Games Pure JS code](https://www.udemy.com/course/javascript-course-projects/) by Laurence Svekis _(696 lectures / 51.5hrs)_
+- [Javascript Tutorial and Projects Course](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/) by John Smilga _(355 lectures / 40hrs)_
+- [JavaScript Web Projects: 20 Projects to Build Your Portfolio](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/) by Andrei Neagoie & Jacinto Wong _(233 lectures / 33hrs)_
 
 ### Advanced JavaScript
 
 - [Advanced JavaScript](https://www.udemy.com/course/javascript-advanced/) by Asim Hussain _(47 lectures / 6.5hrs)_
 - [Advanced JavaScript Topics](https://www.udemy.com/course/learn-modern-javascript-advanced-topics/) by Steven Hancock _(93 lectures / 16hrs)_
-- [JavaScript: The Advanced Concepts](https://www.udemy.com/course/advanced-javascript-concepts/) by Andrei Neagoie _(218 lectures / 24.5hrs)_
+- [JavaScript: The Advanced Concepts](https://www.udemy.com/course/advanced-javascript-concepts/) by Andrei Neagoie _(225 lectures / 25hrs)_
 
-## Tools 2 - Essential Dev Tools
+## The Building Blocks - Other Tools To Start Learning
 
-![Slide 9](img/slide-9.jpg)
+![Slide 7](img/2021/slide-07.jpg)
 
 ### Git/GitHub
 
-- [Complete Git Guide: Understand and master Git and GitHub](https://www.udemy.com/course/git-and-github-complete-guide/) by Bogdan Stashchuk _(215 lectures / 18hrs)_
+- [Complete Git Guide: Understand and master Git and GitHub](https://www.udemy.com/course/git-and-github-complete-guide/) by Bogdan Stashchuk _(267 lectures / 22hrs)_
 - [Git & GitHub Masterclass](https://www.udemy.com/course/git-and-github-masterclass/) by Tim Buchalka & Eduardo Rosas _(73 lectures / 11.5hrs)_
-- [Git a Web Developer Job: Mastering the Modern Workflow](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/) by Brad Schiff _(68 lectures / 15hrs)_
+- [Git a Web Developer Job: Mastering the Modern Workflow](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/) by Brad Schiff _(71 lectures / 15hrs)_
 - [Git Complete: The definitive, step-by-step guide to Git](https://www.udemy.com/course/git-complete/) by Jason Taylor _(84 lectures / 6hrs)_
 - [Git Essentials: Learn Git with Bitbucket and Sourcetree](https://www.udemy.com/course/git-with-bitbucket-and-sourcetree/) by Justin Rose _(58 lectures / 2.5hrs)_
 - [Git Github Gitkraken: Version Control without Command Line](https://www.udemy.com/course/git-github-gitkraken-version-control-without-command-line/) by Peter Gunardi _(35 lectures / 2.5hrs)_
@@ -180,25 +192,41 @@ Now while it is true that once you work on a team/for a company, there is very l
 
 ### NPM
 
-- [Understanding NPM - Node.js Package Manager](https://www.udemy.com/course/understanding-npm/) by Bogdan Stashchuk _(40 lectures / 2.5hrs)_
+- [Understanding NPM - Node.js Package Manager](https://www.udemy.com/course/understanding-npm/) by Bogdan Stashchuk _(41 lectures / 2.5hrs)_
 
 ### Yarn
 
 - [Yarn Dependency Management - The Complete Guide](https://www.udemy.com/course/yarn-dependency-management/) by Ray Viljoen _(22 lectures / 1.5hrs)_
 
+### Parcel
+
+- [Parcel Bundler: The Complete Tutorial](https://www.udemy.com/course/parcel-bundler-the-complete-tutorial/) by Viktor Pyskunov _(35 lectures / 3hrs)_
+
 ### Webpack
 
-- [Webpack 4 in 2020: The Complete Tutorial For Beginners](https://www.udemy.com/course/webpack-from-beginner-to-advanced/) by Viktor Pyskunov _(52 lectures / 3.5hrs)_
+- [Webpack 5: The Complete Guide For Beginners](https://www.udemy.com/course/webpack-from-beginner-to-advanced/) by Viktor Pyskunov _(63 lectures / 4.5hrs)_
 
 ### A Bit of Everything
 
 - [Git a Web Developer Job: Mastering the Modern Workflow](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/) by Brad Schiff _(68 lectures / 15hrs)_
 - [JavaScript Infrastructure: CLI, NPM, Babel 7 and Webpack 4](https://www.udemy.com/course/2019-js-infrastructure-course-npm-babel-7-webpack-4/) by OnlyKiosk Tech _(68 lectures / 3.5hrs)_
 
-## Front-End Framework & State Management (Choose One)
+## Deployment - Basic Front End Deployment
 
-![Slide 13](img/slide-13.jpg)
-![Slide 15](img/slide-15.jpg)
+![Slide 8](img/slide-08.jpg)
+![Slide 9](img/slide-09.jpg)
+
+### GitHub Pages
+
+- [Git a Web Developer Job: Mastering the Modern Workflow](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/) by Brad Schiff _(71 lectures / 15hrs)_
+
+### Netlify
+
+- [Netlify - The Complete Guide 2020 (FullStack Serverless)](https://www.udemy.com/course/netlify-complete/) by Sashrika Waidyarathna _(35 lectures / 3hrs)_
+
+## Front End Superstar - Front End Framework & State Management (Choose One)
+
+![Slide 10](img/slide-10.jpg)
 
 ### React
 
@@ -720,6 +748,6 @@ And finally, testing, or Test-Driven Development (TDD). TDD is actually quite im
 
 ## Test / Test Driven Development (TDD)
 
-- [2019 Update! React Testing with Jest and Enzyme](https://www.udemy.com/course/react-testing-with-jest-and-enzyme/) by Bonnie Schulkin _(162 lectures / 12hrs)_
+- [React Testing with Jest and Enzyme](https://www.udemy.com/course/react-testing-with-jest-and-enzyme/) by Bonnie Schulkin _(165 lectures / 12hrs)_
 - [Node.js Unit Testing In-Depth](https://www.udemy.com/course/nodejs-unit-testing-in-depth/) by Murtez Alrohani _(45 lectures / 2.5hrs)_
 - Unfortunately there isn't much on testing for JavaScript on Udemy, but there are numerous, great tutorials for this over on **[YouTube](https://www.youtube.com/results?search_query=javascript+testing)**.
