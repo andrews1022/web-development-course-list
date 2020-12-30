@@ -1,4 +1,4 @@
-# Web Development In 2021 - A Practical Guide Course List
+# Web Development In 2021 - A Course List
 
 It's that time of year again, and Brad Traversy has released his annual Web Development roadmap for the upcoming year. It is a fantastic resource that I know we are all thankful for. And being a web developer has never been better, and as shown in the video, there are a **TON** of technologies at our disposal! However, this can also be quite intimidating for beginners. So, I have comprised a list below of the top Udemy courses for each slide as well some other resources, hopefully easing your decision making. Each block of courses is listed in alphabetical order for simplicity's sake.
 
@@ -38,7 +38,7 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 - [Wes Bos](https://wesbos.com/)
 - [YouTube](https://www.youtube.com/)
 
-## Getting Started - Basic Tools
+## Basic Tools
 
 ![Slide 1](img/2021/slide-01.jpg)
 
@@ -81,7 +81,7 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 - [InVision](https://www.invisionapp.com/)
 - [Sketch](https://www.sketch.com/)
 
-## The Building Blocks - HTML & CSS
+## HTML & CSS
 
 ![Slide 2](img/2021/slide-02.jpg)
 
@@ -97,7 +97,7 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 - [CSS - The Complete Guide 2020 (incl. Flexbox, Grid & Sass)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) by Maximilian Schwarzmüller _(296 lectures / 22.5hrs)_
 - [CSS Bootcamp - Master CSS (Including CSS Grid / Flexbox)](https://www.udemy.com/course/css-bootcamp-master-in-css-including-css-grid-flexbox/) by Code And Create _(89 lectures / 11.5hrs)_
 
-## The Building Blocks - Sass
+## Sass
 
 ![Slide 3](img/2021/slide-03.jpg)
 
@@ -109,7 +109,7 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 - [The Complete Sass & SCSS Course: From Beginner to Advanced](https://www.udemy.com/course/sasscourse/) by Joe Parys _(41 lectures / 4hrs)_
 - [The Sass Course! Learn Sass for Real-World Websites](https://www.udemy.com/course/learn-sass/) by Brad Hussey _(18 lectures / 3.5hrs)_
 
-## The Building Blocks - CSS/UI Frameworks (Choose One)
+## CSS/UI Frameworks (Choose One)
 
 ![Slide 4](img/2021/slide-04.jpg)
 
@@ -130,16 +130,16 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 - [Master Bulma CSS framework and code 4 projects with 14 pages](https://www.udemy.com/course/bulma-responsive-web-design-and-development/) by Jeppe Schaumburg Jensen _(127 lectures / 13hrs)_
 
-## The Building Blocks - UI Design
+## UI Design
 
 ![Slide 5](img/2021/slide-05.jpg)
 
-## UI/UX
+### UI/UX
 
 - [Learn Figma - UI/UX Design Essential Training](https://www.udemy.com/course/learn-figma/) by Caleb Kingston _(47 lectures / 4hrs)_
 - [User Experience Design Essentials - Adobe XD UI UX Design](https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/) by Daniel Walter Scott _(94 lectures / 13hrs)_
 
-## The Building Blocks - Vanilla JavaScript
+## Vanilla JavaScript
 
 ![Slide 6](img/2021/slide-06.jpg)
 
@@ -173,7 +173,7 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 - [Advanced JavaScript Topics](https://www.udemy.com/course/learn-modern-javascript-advanced-topics/) by Steven Hancock _(93 lectures / 16hrs)_
 - [JavaScript: The Advanced Concepts](https://www.udemy.com/course/advanced-javascript-concepts/) by Andrei Neagoie _(225 lectures / 25hrs)_
 
-## The Building Blocks - Other Tools To Start Learning
+## Other Tools To Start Learning
 
 ![Slide 7](img/2021/slide-07.jpg)
 
@@ -209,7 +209,7 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 - [Git a Web Developer Job: Mastering the Modern Workflow](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/) by Brad Schiff _(68 lectures / 15hrs)_
 - [JavaScript Infrastructure: CLI, NPM, Babel 7 and Webpack 4](https://www.udemy.com/course/2019-js-infrastructure-course-npm-babel-7-webpack-4/) by OnlyKiosk Tech _(68 lectures / 3.5hrs)_
 
-## Deployment - Basic Front End Deployment
+## Basic Front End Deployment
 
 ![Slide 8](img/2021/slide-08.jpg)
 ![Slide 9](img/2021/slide-09.jpg)
@@ -222,16 +222,16 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 - [Netlify - The Complete Guide 2020 (FullStack Serverless)](https://www.udemy.com/course/netlify-complete/) by Sashrika Waidyarathna _(35 lectures / 3hrs)_
 
-## Front End Superstar - Front End Framework & State Management (Choose One)
+## Front End Framework & State Management (Choose One)
 
 ![Slide 10](img/2021/slide-10.jpg)
 
 ### React
 
-- [Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/) by Andrei Neagoie & Yihua Zhang _(336 lectures / 40hrs)_
+- [Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/) by Andrei Neagoie & Yihua Zhang _(360 lectures / 40.5hrs)_
 - [GraphQL with React: The Complete Developers Guide](https://www.udemy.com/course/graphql-with-react-course/) by Stephen Grider _(115 lectures / 13hrs)_
-- [Modern React with Redux [2020 Update]](https://www.udemy.com/course/react-redux/) by Stephen Grider _(487 lectures / 47.5hrs)_
-- [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) by Maximilian Schwarzmüller _(543 lectures / 45hrs)_
+- [Modern React with Redux [2020 Update]](https://www.udemy.com/course/react-redux/) by Stephen Grider _(563 lectures / 52.5hrs)_
+- [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) by Maximilian Schwarzmüller _(491 lectures / 40.5hrs)_
 - [React Front To Back](https://www.udemy.com/course/modern-react-front-to-back/) by Brad Traversy _(91 lectures / 14hrs)_
 - [The Complete React Developer Course (w/ Hooks and Redux)](https://www.udemy.com/course/react-2nd-edition/) by Andrew Mead _(200 lectures / 39hrs)_
 - [The Complete React Js & Redux Course - Build Modern Web Apps](https://www.udemy.com/course/the-complete-react-js-redux-course-build-modern-web-apps/) by Rob Percival & Rayan Slim _(71 lectures / 8.5hrs)_
@@ -240,7 +240,7 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 ### React - Project Focused
 
 - [The React practice course, learn by building projects.](https://www.udemy.com/course/the-react-practice-course-learn-by-building-projects/) by Coding Revolution _(218 lectures / 44hrs)_
-- [React Tutorial and Projects Course](https://www.udemy.com/course/react-tutorial-and-projects-course/) by John Smilga _(361 lectures / 39hrs)_
+- [React Tutorial and Projects Course](https://www.udemy.com/course/react-tutorial-and-projects-course/) by John Smilga _(495 lectures / 56hrs)_
 
 ### React - Advanced
 
@@ -266,58 +266,111 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 - [NgRx (with NgRx Data) - The Complete Guide (FREE E-Book)](https://www.udemy.com/course/ngrx-course/) by Angular University _(52 lectures / 6hrs)_
 - [The Complete Angular Course: Beginner to Advanced](https://www.udemy.com/course/the-complete-angular-master-class/) by Mosh Hamedani _(376 lectures / 29.5hrs)_
 
-## Svelte
-
-![Slide 14](img/slide-14.jpg)
-
 ### Svelte
 
 - [Svelte Tutorial and Projects Course](https://www.udemy.com/course/svelte-tutorial-and-projects-course/) by John Smilga _(150 lectures / 15.5hrs)_
 - [Svelte.js - The Complete Guide (incl. Sapper.js)](https://www.udemy.com/course/sveltejs-the-complete-guide/) by Maximilian Schwarzmüller _(196 lectures / 12.5hrs)_
 
-## Server-Side Rendering
-
-![Slide 16](img/slide-16.jpg)
-
-### Next (React)
-
-- [Complete Next.js with React & Node - Beautiful Portfolio App](https://www.udemy.com/course/awesome-nextjs-with-react-and-node-amazing-portfolio-app/) by Filip Jerga _(241 lectures / 38.5hrs)_
-- [Server side rendering with Next + React](https://www.udemy.com/course/server-side-rendering-with-next-react/) by Coding Revolution _(170 lectures / 29.5hrs)_
-- [Universal React with Next.js - The Ultimate Guide](https://www.udemy.com/course/universal-react-with-nextjs-the-ultimate-guide/) by Reed Barger _(90 lectures / 9.5hrs)_
-
-### Nuxt (Vue)
-
-- [Nuxt.js - Vue.js on Steroids](https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/) by Maximilian Schwarzmüller _(106 lectures / 6.5hrs)_
-
-## Static Site Generators
-
-![Slide 17](img/slide-17.jpg)
-
-### Gatsby (React)
-
-- [Gatsby JS & Firebase: Build HYBRID realtime + static sites](https://www.udemy.com/course/gatsby-js-firebase-hybrid-realtime-static-sites/) by Tom Phillips _(65 lectures / 5hrs)_
-- [Gatsby JS: Build PWA Blog With GraphQL And React + WordPress](https://www.udemy.com/course/gatsby-js-build-pwa-blog-with-graphql-and-react-wordpress/) by Rangel Stoilov _(42 lectures / 4hrs)_
-- [Gatsby JS: Build static sites with React Wordpress & GraphQL](https://www.udemy.com/course/gatsby-js-react-wordpress-graphql/) by Tom Phillips _(42 lectures / 4hrs)_
-- [Gatsby Tutorial and Projects Course](https://www.udemy.com/course/gatsby-tutorial-and-projects-course/) by John Smilga _(323 lectures / 38.5hrs)_
-- [Gatsby JS | Gatsby with Wordpress as a headless CMS [2020]](https://www.udemy.com/course/gatsby-with-wordpress/) by Thomas Weibenfalk _(31 lectures / 6hrs)_
-- [The Gatsby Masterclass](https://www.udemy.com/course/the-gatsby-masterclass/) by Reed Barger _(43 lectures / 4hrs)_
-
-### Gridsome (Vue)
-
-- [Blazing-Fast Vue and GraphQL with Gridsome](https://www.udemy.com/course/blazing-fast-vue-and-graphql-with-gridsome/) by Reed Barger _(28 lectures / 3hrs)_
-
 ## TypeScript
 
-![Slide 18](img/slide-18.jpg)
+![Slide 11](img/2021/slide-11.jpg)
 
 ### TypeScript
 
 - [Typescript: The Complete Developer's Guide [2020]](https://www.udemy.com/course/typescript-the-complete-developers-guide/) by Stephen Grider _(278 lectures / 24.5hrs)_
 - [Understanding TypeScript - 2020 Edition](https://www.udemy.com/course/understanding-typescript/) by Maximilian Schwarzmüller _(352 lectures / 22hrs)_
 
-## Server-Side Language (Choose One)
+## Testing
 
-![Slide 20](img/slide-20.jpg)
+![Slide 12](img/2021/slide-12.jpg)
+
+### Testing
+
+- [Node.js Unit Testing In-Depth](https://www.udemy.com/course/nodejs-unit-testing-in-depth/) by Murtez Alrohani _(45 lectures / 2.5hrs)_
+- [React Testing with Jest and Enzyme](https://www.udemy.com/course/react-testing-with-jest-and-enzyme/) by Bonnie Schulkin _(165 lectures / 12hrs)_
+- [The complete guide to testing javascript & node applications](https://www.udemy.com/course/the-complete-guide-to-testing-javascript-node-applications/) by Kati Frantz _(24 lectures / 2hrs)_
+- [Unit testing your Javascript with jasmine](https://www.udemy.com/course/unit-testing-your-javascript-with-jasmine/) by Juan Lizarazo _(86 lectures / 6hrs)_
+
+## Server-Side Rendering
+
+![Slide 13](img/2021/slide-13.jpg)
+
+### Next (React)
+
+- [Complete Next.js with React & Node - Beautiful Portfolio App](https://www.udemy.com/course/awesome-nextjs-with-react-and-node-amazing-portfolio-app/) by Filip Jerga _(371 lectures / 60hrs)_
+- [Modern Server Side Rendering with React and Next.JS](https://www.udemy.com/course/modern-server-side-rendering-with-react-and-nextjs/) by Eduardo Silva _(87 lectures / 8hrs)_
+- [Next.JS with Sanity CMS - Serverless Blog App (w/ Vercel)](https://www.udemy.com/course/nextjs-with-sanity-cms-serverless-blog-app-w-vercel/) by Filip Jerga _(81 lectures / 12.5hrs)_
+- [Server side rendering with Next + React](https://www.udemy.com/course/server-side-rendering-with-next-react/) by Coding Revolution _(170 lectures / 29.5hrs)_
+- [Strongly Typed Next.js](https://www.udemy.com/course/strongly-typed-next-js/) by Michael Stromer _(92 lectures / 6.5hrs)_
+- [Universal React with Next.js - The Ultimate Guide](https://www.udemy.com/course/universal-react-with-nextjs-the-ultimate-guide/) by Reed Barger _(90 lectures / 9.5hrs)_
+
+### Nuxt (Vue)
+
+- [Complete Vuejs Course: Vue.js + Nuxt.js + PHP + Express.js](https://www.udemy.com/course/vuejs-for-students-with-zero-es6-foundation/) by OnlyKiosk Tech _(290 lectures / 18hrs)_
+- [Nuxt.js - Vue.js on Steroids](https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/) by Maximilian Schwarzmüller _(106 lectures / 6.5hrs)_
+- [The Complete Nuxt.js & Vue.js Course | Self Promo App](https://www.udemy.com/course/the-complete-nuxtjs-vuejs-course-self-promo-app/) by Filip Jerga _(247 lectures / 41.5hrs)_
+
+### Angular Universal (Angular)
+
+- [Angular Universal In Depth](https://www.udemy.com/course/angular-universal-course/) by Angular University _(32 lectures / 4.5hrs)_
+
+## Static Site Generators (Choose One)
+
+![Slide 14](img/2021/slide-14.jpg)
+
+### Gatsby (React)
+
+- [Gatsby JS & Firebase: Build HYBRID realtime + static sites](https://www.udemy.com/course/gatsby-js-firebase-hybrid-realtime-static-sites/) by Tom Phillips _(65 lectures / 5hrs)_
+- [Gatsby JS: Build PWA Blog With GraphQL And React + WordPress](https://www.udemy.com/course/gatsby-js-build-pwa-blog-with-graphql-and-react-wordpress/) by Rangel Stoilov _(42 lectures / 4hrs)_
+- [Gatsby JS: Build static sites with React Wordpress & GraphQL](https://www.udemy.com/course/gatsby-js-react-wordpress-graphql/) by Tom Phillips _(42 lectures / 4hrs)_
+- [Gatsby Tutorial and Projects Course](https://www.udemy.com/course/gatsby-tutorial-and-projects-course/) by John Smilga _(236 lectures / 22hrs)_
+- [The Gatsby Masterclass](https://www.udemy.com/course/the-gatsby-masterclass/) by Reed Barger _(43 lectures / 4hrs)_
+
+### Gridsome (Vue)
+
+- [Blazing-Fast Vue and GraphQL with Gridsome](https://www.udemy.com/course/blazing-fast-vue-and-graphql-with-gridsome/) by Reed Barger _(28 lectures / 3hrs)_
+
+## Headless CMS (Choose One)
+
+![Slide 15](img/2021/slide-15.jpg)
+
+### Strapi
+
+- [The Complete Strapi Course](https://www.udemy.com/course/the-complete-strapi-course/) by Alex V _(327 lectures / 27hrs)_
+
+### Sanity.io
+
+- [Next.JS with Sanity CMS - Serverless Blog App (w/ Vercel)](https://www.udemy.com/course/nextjs-with-sanity-cms-serverless-blog-app-w-vercel/) by Filip Jerga _(81 lectures / 12.5hrs)_
+
+### Contentful
+
+- [Build a Website using ReactJs and Contentful (Headless CMS)](https://www.udemy.com/course/build-a-website-using-reactjs-and-contentful-headless-cms/) by Sarfaraz Kasmani _(55 lectures / 6hrs)_
+
+### Prismic
+
+- [Gatsby JS & Prismic: Build RAPID Gatsby sites | Gatsby 2020](https://www.udemy.com/course/gatsby-js-prismic-netlify/) by Sarfaraz Kasmani _(35 lectures / 3hrs)_
+
+### WordPress
+
+- [WordPress for Beginners: Create a Website Step by Step](https://www.udemy.com/course/wordpress-for-beginners-create-a-website-blog-step-by-step/) by Brad Schiff _(25 lectures / 5hrs)_
+- [Complete WordPress Theme & Plugin Development Course [2020]](https://www.udemy.com/course/wordpress-theme-and-plugin-development-course/) by Zac Gordon _(176 lectures / 16hrs)_
+- [The Complete WordPress Aliexpress Dropship course](https://www.udemy.com/course/the-complete-aliexpress-dropshipping-course/) by Tim Sharp _(65 lectures / 4.5hrs)_
+- [The Complete WordPress Website Business Course](https://www.udemy.com/course/the-complete-wordpress-website-business-course/) by Rob Percival & Gregg Davis _(102 lectures / 21.5hrs)_
+- [Wordpress for Beginners - Master Wordpress Quickly](https://www.udemy.com/course/wordpress-for-beginners-course/) by Andrew Williams _(92 lectures / 7.5hrs)_
+- [WordPress for Beginners: Create a Website Step by Step](https://www.udemy.com/course/wordpress-for-beginners-create-a-website-blog-step-by-step/) by Brad Schiff _(23 lectures / 5hrs)_
+- [WordPress Theme Development with Bootstrap](https://www.udemy.com/course/bootstrap-to-wordpress/) by Brad Hussey _(83 lectures / 12hrs)_
+
+## The Jamstack - JavaScript, APIs & Markup
+
+![Slide 16](img/2021/slide-16.jpg)
+
+### Jamstack
+
+- [JAMStack: The Complete Guide](https://www.udemy.com/course/jamstack/) by Ray Viljoen _(29 lectures / 4.5hrs)_
+
+## Server Side Language (Choose One)
+
+![Slide 17](img/2021/slide-17.jpg)
 
 ### Node
 
@@ -745,7 +798,3 @@ And finally, testing, or Test-Driven Development (TDD). TDD is actually quite im
 - [Ultimate JavaScript Interview Course](https://www.udemy.com/course/ultimate-javascript-interview-course/) by Eric Traub _(243 lectures / 11hrs)_
 
 ## Test / Test Driven Development (TDD)
-
-- [React Testing with Jest and Enzyme](https://www.udemy.com/course/react-testing-with-jest-and-enzyme/) by Bonnie Schulkin _(165 lectures / 12hrs)_
-- [Node.js Unit Testing In-Depth](https://www.udemy.com/course/nodejs-unit-testing-in-depth/) by Murtez Alrohani _(45 lectures / 2.5hrs)_
-- Unfortunately there isn't much on testing for JavaScript on Udemy, but there are numerous, great tutorials for this over on **[YouTube](https://www.youtube.com/results?search_query=javascript+testing)**.
