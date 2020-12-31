@@ -896,8 +896,6 @@ Udemy is also well known for having all-in-one full stack web development course
 
 ## Serverless Architecture
 
-![Slide 31](img/slide-31.jpg)
-
 ### AWS Lambda
 
 - [AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps)](https://www.udemy.com/course/aws-lambda-serverless-architecture/) by Riyaz Sayyad _(301 lectures / 25.5hrs)_
@@ -906,8 +904,6 @@ Udemy is also well known for having all-in-one full stack web development course
 - [Build a Serverless App with AWS Lambda - Hands On!](https://www.udemy.com/course/build-a-serverless-app-with-aws-lambda-hands-on/) by Frank Kane & Brian Tajuddin _(60 lectures / 7.5hrs)_
 
 ## API-First Design
-
-![Slide 32](img/slide-32.jpg)
 
 ### APIs
 
