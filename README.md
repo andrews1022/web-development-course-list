@@ -667,7 +667,11 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ### Cloundinary
 
+- Nothing here yet...
+
 ### S3
+
+- Nothing here yet...
 
 ### Jenkins
 
@@ -675,7 +679,11 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ### Travis CI
 
+- Nothing here yet...
+
 ### Circle CI
+
+- Nothing here yet...
 
 ### SSH (Secure Shell)
 
