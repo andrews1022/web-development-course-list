@@ -377,7 +377,6 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 - [The Complete WordPress Website Business Course](https://www.udemy.com/course/the-complete-wordpress-website-business-course/) by Rob Percival & Gregg Davis _(102 lectures / 21.5hrs)_
 - [Wordpress for Beginners - Master Wordpress Quickly](https://www.udemy.com/course/wordpress-for-beginners-course/) by Andrew Williams _(92 lectures / 7.5hrs)_
 - [WordPress for Beginners: Create a Website Step by Step](https://www.udemy.com/course/wordpress-for-beginners-create-a-website-blog-step-by-step/) by Brad Schiff _(25 lectures / 5hrs)_
-- [WordPress for Beginners: Create a Website Step by Step](https://www.udemy.com/course/wordpress-for-beginners-create-a-website-blog-step-by-step/) by Brad Schiff _(23 lectures / 5hrs)_
 - [WordPress Theme Development with Bootstrap](https://www.udemy.com/course/bootstrap-to-wordpress/) by Brad Hussey _(83 lectures / 12hrs)_
 
 ## The Jamstack - JavaScript, APIs & Markup
@@ -618,7 +617,6 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 - [The Complete WordPress Website Business Course](https://www.udemy.com/course/the-complete-wordpress-website-business-course/) by Rob Percival & Gregg Davis _(102 lectures / 21.5hrs)_
 - [Wordpress for Beginners - Master Wordpress Quickly](https://www.udemy.com/course/wordpress-for-beginners-course/) by Andrew Williams _(92 lectures / 7.5hrs)_
 - [WordPress for Beginners: Create a Website Step by Step](https://www.udemy.com/course/wordpress-for-beginners-create-a-website-blog-step-by-step/) by Brad Schiff _(25 lectures / 5hrs)_
-- [WordPress for Beginners: Create a Website Step by Step](https://www.udemy.com/course/wordpress-for-beginners-create-a-website-blog-step-by-step/) by Brad Schiff _(23 lectures / 5hrs)_
 - [WordPress Theme Development with Bootstrap](https://www.udemy.com/course/bootstrap-to-wordpress/) by Brad Hussey _(83 lectures / 12hrs)_
 
 ## Deployment, Servers & DevOps
