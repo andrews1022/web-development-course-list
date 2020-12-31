@@ -833,13 +833,50 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ### Software Design Patterns
 
+- Nothing here yet...
+
 ---
 
-## From 2020 Course List
+Wow, that is a **_LOT_** to learn! 2021 is looking to be an amazing time to learn all there is about web development, and far more than that too.
+
+But wait, there's even **MORE!!**
+
+Udemy is also well known for having all-in-one full stack web development courses, as well as more recently full stack courses with specific technologies, such as MERN, MEAN, and recently MEVN. These 3 all use the same 3 letters: M, E, & N which stand for MongoDB, Express, and Node. The key difference between them is which JavaScript library/framework they use on the front end. MERN uses React, MEAN uses Angular, and MEVN uses Vue.
+
+## Full Stack (Beginner)
+
+- [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Angela Yu _(440 lectures / 55hrs)_
+- [The Complete Web Developer Course 2.0](https://www.udemy.com/course/the-complete-web-developer-course-2/) by Rob Percival _(309 lectures / 30.5hrs)_
+- [The Complete Web Developer in 2021: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) by Andrei Neagoie _(370 lectures / 37hrs)_
+- [The Web Developer Bootcamp 2020](https://www.udemy.com/course/the-web-developer-bootcamp/) by Colt Steele _(613 lectures / 63hrs)_
+
+## Full Stack (Advanced)
+
+- [The Advanced Web Developer Bootcamp](https://www.udemy.com/course/the-advanced-web-developer-bootcamp/) by Colt Steele, Elie Schoppik, Tim Garcia, & Matt Lane _(391 lectures / 34hrs)_
+- [The Complete Junior to Senior Web Developer Roadmap (2021)](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/) by Andrei Neagoie _(422 lectures / 36.5hrs)_
+
+## MERN
+
+- [MERN eCommerce From Scratch](https://www.udemy.com/course/mern-ecommerce/) by Brad Traversy _(91 lectures / 15hrs)_
+- [MERN Stack - React Node from Scratch Building Social Network](https://www.udemy.com/course/node-react/) by Ryan Dhungel _(234 lectures / 21.5hrs)_
+- [MERN Stack - The Complete Guide](https://www.udemy.com/course/mern-stack-the-complete-guide/) by Reed Barger _(44 lectures / 8.5hrs)_
+- [MERN Stack Front To Back: Full Stack React, Redux & Node.js](https://www.udemy.com/course/mern-stack-front-to-back/) by Brad Traversy _(73 lectures / 12hrs)_
+- [MERN Stack React Node Ecommerce from Scratch to Deployment](https://www.udemy.com/course/react-node-ecommerce/) by Ryan Dhungel _(162 lectures / 16.5hrs)_
+- [MERN Stack React Node Multi User Blogging Platform with SEO](https://www.udemy.com/course/react-node-nextjs-fullstack-multi-user-blogging-platform-with-seo/) by Ryan Dhungel _(170 lectures / 21hrs)_
+- [MERN Stack Web Development with Ultimate Authentication](https://www.udemy.com/course/mern-stack/) by Ryan Dhungel _(82 lectures / 9.5hrs)_
+- [Node with React: Fullstack Web Development](https://www.udemy.com/course/node-with-react-fullstack-web-development/) by Stephen Grider _(207 lectures / 26hrs)_
+- [React, NodeJS, Express & MongoDB - The MERN Fullstack Guide](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/) by Maximilian Schwarzmüller & Manuel Lorenz _(206 lectures / 19hrs)_
+- [The complete React Fullstack course ( 2nd edition )](https://www.udemy.com/course/the-complete-react-fullstack-course/) by Coding Revolution _(455 lectures / 73hrs)_
+
+## MEAN
+
+- [Angular & NodeJS - The MEAN Stack Guide [2020 Edition]](https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/) by Maximilian Schwarzmüller _(149 lectures / 13hrs)_
+
+---
+
+# From 2020 Course List
 
 ## Content Management
-
-![Slide 24](img/slide-24.jpg)
 
 ### WordPress
 
@@ -888,40 +925,3 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 - [REST APIs with Flask and Python](https://www.udemy.com/course/rest-api-flask-and-python/) by Jose Salvatierra _(170 lectures / 17hrs)_
 - [WebServices API Testing Using Rest Assured API & Postman](https://www.udemy.com/course/webservices-testing-restassured-api-tutorial/) by Rahul Arora _(138 lectures / 37.5hrs)_
 - [WebServices/Rest API Testing with SoapUI + Real Time Project](https://www.udemy.com/course/webservices-testing-with-soap-ui/) by Rahul Shetty _(107 lectures / 19hrs)_
-
----
-
-Wow, that is a **_LOT_** to learn! 2021 is looking to be an amazing time to learn all there is about web development, and far more than that too.
-
-But wait, there's even **MORE!!**
-
-Udemy is also well known for having all-in-one full stack web development courses, as well as more recently full stack courses with specific technologies, such as MERN, MEAN, and recently MEVN. These 3 all use the same 3 letters: M, E, & N which stand for MongoDB, Express, and Node. The key difference between them is which JavaScript library/framework they use on the front end. MERN uses React, MEAN uses Angular, and MEVN uses Vue.
-
-## Full Stack (Beginner)
-
-- [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Angela Yu _(440 lectures / 55hrs)_
-- [The Complete Web Developer Course 2.0](https://www.udemy.com/course/the-complete-web-developer-course-2/) by Rob Percival _(309 lectures / 30.5hrs)_
-- [The Complete Web Developer in 2021: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) by Andrei Neagoie _(370 lectures / 37hrs)_
-- [The Web Developer Bootcamp 2020](https://www.udemy.com/course/the-web-developer-bootcamp/) by Colt Steele _(613 lectures / 63hrs)_
-
-## Full Stack (Advanced)
-
-- [The Advanced Web Developer Bootcamp](https://www.udemy.com/course/the-advanced-web-developer-bootcamp/) by Colt Steele, Elie Schoppik, Tim Garcia, & Matt Lane _(391 lectures / 34hrs)_
-- [The Complete Junior to Senior Web Developer Roadmap (2021)](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/) by Andrei Neagoie _(422 lectures / 36.5hrs)_
-
-## MERN
-
-- [MERN eCommerce From Scratch](https://www.udemy.com/course/mern-ecommerce/) by Brad Traversy _(91 lectures / 15hrs)_
-- [MERN Stack - React Node from Scratch Building Social Network](https://www.udemy.com/course/node-react/) by Ryan Dhungel _(234 lectures / 21.5hrs)_
-- [MERN Stack - The Complete Guide](https://www.udemy.com/course/mern-stack-the-complete-guide/) by Reed Barger _(44 lectures / 8.5hrs)_
-- [MERN Stack Front To Back: Full Stack React, Redux & Node.js](https://www.udemy.com/course/mern-stack-front-to-back/) by Brad Traversy _(73 lectures / 12hrs)_
-- [MERN Stack React Node Ecommerce from Scratch to Deployment](https://www.udemy.com/course/react-node-ecommerce/) by Ryan Dhungel _(162 lectures / 16.5hrs)_
-- [MERN Stack React Node Multi User Blogging Platform with SEO](https://www.udemy.com/course/react-node-nextjs-fullstack-multi-user-blogging-platform-with-seo/) by Ryan Dhungel _(170 lectures / 21hrs)_
-- [MERN Stack Web Development with Ultimate Authentication](https://www.udemy.com/course/mern-stack/) by Ryan Dhungel _(82 lectures / 9.5hrs)_
-- [Node with React: Fullstack Web Development](https://www.udemy.com/course/node-with-react-fullstack-web-development/) by Stephen Grider _(207 lectures / 26hrs)_
-- [React, NodeJS, Express & MongoDB - The MERN Fullstack Guide](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/) by Maximilian Schwarzmüller & Manuel Lorenz _(206 lectures / 19hrs)_
-- [The complete React Fullstack course ( 2nd edition )](https://www.udemy.com/course/the-complete-react-fullstack-course/) by Coding Revolution _(455 lectures / 73hrs)_
-
-## MEAN
-
-- [Angular & NodeJS - The MEAN Stack Guide [2020 Edition]](https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/) by Maximilian Schwarzmüller _(149 lectures / 13hrs)_
