@@ -40,7 +40,7 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ## Basic Tools
 
-![Slide 1](img/2021/slide-01.jpg)
+![Slide 1](img/slide-01.jpg)
 
 ### Computer & OS
 
@@ -83,7 +83,7 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ## HTML & CSS
 
-![Slide 2](img/2021/slide-02.jpg)
+![Slide 2](img/slide-02.jpg)
 
 ### HTML & CSS
 
@@ -99,7 +99,7 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ## Sass
 
-![Slide 3](img/2021/slide-03.jpg)
+![Slide 3](img/slide-03.jpg)
 
 ### Sass
 
@@ -111,9 +111,11 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ## CSS/UI Frameworks (Choose One)
 
-![Slide 4](img/2021/slide-04.jpg)
+![Slide 4](img/slide-04.jpg)
 
 ### Tailwind
+
+- Nothing here yet...
 
 ### Bootstrap
 
@@ -134,21 +136,20 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ## UI Design
 
-![Slide 5](img/2021/slide-05.jpg)
+![Slide 5](img/slide-05.jpg)
 
 ### UI/UX
 
+- [Complete Web & Mobile Designer in 2021: UI/UX, Figma, +more](https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/) by Andrei Neagoie & Daniel Schifano _(249 lectures / 25hrs)_
 - [Learn Figma - UI/UX Design Essential Training](https://www.udemy.com/course/learn-figma/) by Caleb Kingston _(47 lectures / 4hrs)_
-- [User Experience Design Essentials - Adobe XD UI UX Design](https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/) by Daniel Walter Scott _(94 lectures / 13hrs)_
-
-- [The Complete App Design Course - UX, UI and Design Thinking](https://www.udemy.com/course/the-complete-app-design-course-ux-and-ui-design/) by App Brewery Co. _(62 lectures / 3hrs)_
 - [Master Digital Product Design: UX Research & UI Design](https://www.udemy.com/course/master-digital-product-design-ux-research-ui-design/) by Rob Sutcliffe _(168 lectures / 15.5hrs)_
 - [Sketching for UX Designers - Boost UX work with pen & paper!](https://www.udemy.com/course/sketching-for-ux-designers/) by Krisztina Szerovay, István Szép, & Gergely Szerovay _(51 lectures / 4.5hrs)_
-- [Complete Web & Mobile Designer in 2021: UI/UX, Figma, +more](https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/) by Andrei Neagoie & Daniel Schifano _(249 lectures / 25hrs)_
+- [The Complete App Design Course - UX, UI and Design Thinking](https://www.udemy.com/course/the-complete-app-design-course-ux-and-ui-design/) by App Brewery Co. _(62 lectures / 3hrs)_
+- [User Experience Design Essentials - Adobe XD UI UX Design](https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/) by Daniel Walter Scott _(94 lectures / 13hrs)_
 
 ## Vanilla JavaScript
 
-![Slide 6](img/2021/slide-06.jpg)
+![Slide 6](img/slide-06.jpg)
 
 ### For Beginners
 
@@ -158,8 +159,8 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 - [Modern JavaScript (Complete guide, from Novice to Ninja)](https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/) by Shaun Pelling _(173 lectures / 19hrs)_
 - [Modern JavaScript From The Beginning](https://www.udemy.com/course/modern-javascript-from-the-beginning/) by Brad Traversy _(122 lectures / 21.5hrs)_
 - [The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) by Jonas Schmedtmann _(310 lectures / 67hrs)_
-- [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/) by Andrew Mead _(155 lectures / 29.5hrs)_
 - [The Modern Javascript Bootcamp Course (2020)](https://www.udemy.com/course/javascript-beginners-complete-tutorial/) by Colt Steele & Stephen Grider _(483 lectures / 52hrs)_
+- [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/) by Andrew Mead _(155 lectures / 29.5hrs)_
 
 ### ES6 Focused
 
@@ -182,7 +183,7 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ## Other Tools To Start Learning
 
-![Slide 7](img/2021/slide-07.jpg)
+![Slide 7](img/slide-07.jpg)
 
 ### Git/GitHub
 
@@ -218,8 +219,8 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ## Basic Front End Deployment
 
-![Slide 8](img/2021/slide-08.jpg)
-![Slide 9](img/2021/slide-09.jpg)
+![Slide 8](img/slide-08.jpg)
+![Slide 9](img/slide-09.jpg)
 
 ### GitHub Pages
 
@@ -231,7 +232,7 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ## Front End Framework & State Management (Choose One)
 
-![Slide 10](img/2021/slide-10.jpg)
+![Slide 10](img/slide-10.jpg)
 
 ### React
 
@@ -244,19 +245,19 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 - [The Complete React Js & Redux Course - Build Modern Web Apps](https://www.udemy.com/course/the-complete-react-js-redux-course-build-modern-web-apps/) by Rob Percival & Rayan Slim _(71 lectures / 8.5hrs)_
 - [The Modern React Bootcamp (Hooks, Context, NextJS, Router)](https://www.udemy.com/course/modern-react-bootcamp/) by Colt Steele _(312 lectures / 39hrs)_
 
-### React - Project Focused
+### React (Project Focused)
 
-- [The React practice course, learn by building projects.](https://www.udemy.com/course/the-react-practice-course-learn-by-building-projects/) by Coding Revolution _(218 lectures / 44hrs)_
 - [React Tutorial and Projects Course](https://www.udemy.com/course/react-tutorial-and-projects-course/) by John Smilga _(495 lectures / 56hrs)_
+- [The React practice course, learn by building projects.](https://www.udemy.com/course/the-react-practice-course-learn-by-building-projects/) by Coding Revolution _(218 lectures / 44hrs)_
 
-### React - Advanced
+### React (Advanced)
 
 - [Advanced React and Redux: 2020 Edition](https://www.udemy.com/course/react-redux-tutorial/) by Stephen Grider _(239 lectures / 21hrs)_
 
 ### Vue
 
 - [Build Web Apps with Vue JS 2 & Firebase](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/) by Shaun Pelling _(118 lectures / 11.5hrs)_
-- [The complete Vue JS course](https://www.udemy.com/course/the-complete-vue-js-course/) by Coding Revolution _(204 lectures / 25.5hrs)_
+- [The Complete Vue JS Course](https://www.udemy.com/course/the-complete-vue-js-course/) by Coding Revolution _(204 lectures / 25.5hrs)_
 - [The Complete Vue JS Developer Course – inc. Vue JS 2!](https://www.udemy.com/course/vue-js-2-the-full-guide-by-real-apps-vuex-router-node/) by Filip Jerga & Rob Percival _(279 lectures / 44hrs)_
 - [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/course/vuejs-2-the-complete-guide/) by Maximilian Schwarzmüller _(400 lectures / 22hrs)_
 - [Vue JS 2: From Beginner to Professional (includes Vuex)](https://www.udemy.com/course/vuejs-from-beginner-to-professional/) by Bo Andersen _(221 lectures / 15.5hrs)_
@@ -280,7 +281,7 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ## TypeScript
 
-![Slide 11](img/2021/slide-11.jpg)
+![Slide 11](img/slide-11.jpg)
 
 ### TypeScript
 
@@ -289,18 +290,18 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ## Testing
 
-![Slide 12](img/2021/slide-12.jpg)
+![Slide 12](img/slide-12.jpg)
 
 ### Testing
 
 - [Node.js Unit Testing In-Depth](https://www.udemy.com/course/nodejs-unit-testing-in-depth/) by Murtez Alrohani _(45 lectures / 2.5hrs)_
 - [React Testing with Jest and Enzyme](https://www.udemy.com/course/react-testing-with-jest-and-enzyme/) by Bonnie Schulkin _(165 lectures / 12hrs)_
-- [The complete guide to testing javascript & node applications](https://www.udemy.com/course/the-complete-guide-to-testing-javascript-node-applications/) by Kati Frantz _(24 lectures / 2hrs)_
-- [Unit testing your Javascript with jasmine](https://www.udemy.com/course/unit-testing-your-javascript-with-jasmine/) by Juan Lizarazo _(86 lectures / 6hrs)_
+- [The Complete Guide to Testing JavaScript & Node Applications](https://www.udemy.com/course/the-complete-guide-to-testing-javascript-node-applications/) by Kati Frantz _(24 lectures / 2hrs)_
+- [Unit Testing Your JavaScript With Jasmine](https://www.udemy.com/course/unit-testing-your-javascript-with-jasmine/) by Juan Lizarazo _(86 lectures / 6hrs)_
 
 ## Server-Side Rendering
 
-![Slide 13](img/2021/slide-13.jpg)
+![Slide 13](img/slide-13.jpg)
 
 ### Next (React)
 
@@ -323,7 +324,7 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ## Static Site Generators (Choose One)
 
-![Slide 14](img/2021/slide-14.jpg)
+![Slide 14](img/slide-14.jpg)
 
 ### Gatsby (React)
 
@@ -337,13 +338,21 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 - [Blazing-Fast Vue and GraphQL with Gridsome](https://www.udemy.com/course/blazing-fast-vue-and-graphql-with-gridsome/) by Reed Barger _(28 lectures / 3hrs)_
 
+### 11ty (JavaScript Alternative to Jekyll)
+
+- Nothing here yet...
+
 ### Jekyll (Ruby)
 
-- [Jekyll: make fast, secure static sites and blogs with Jekyll](https://www.udemy.com/course/static-website-generator-fast-secure-sites-blogs-with-jekyll/) by Jana Bergant _(31 lectures / 2.5hrs)_
+- [Jekyll: Make Fast, Secure Static Sites and Blogs With Jekyll](https://www.udemy.com/course/static-website-generator-fast-secure-sites-blogs-with-jekyll/) by Jana Bergant _(31 lectures / 2.5hrs)_
+
+### Hugo
+
+- Nothing here yet...
 
 ## Headless CMS (Choose One)
 
-![Slide 15](img/2021/slide-15.jpg)
+![Slide 15](img/slide-15.jpg)
 
 ### Strapi
 
@@ -355,7 +364,7 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ### Contentful
 
-- [Build a Website using ReactJs and Contentful (Headless CMS)](https://www.udemy.com/course/build-a-website-using-reactjs-and-contentful-headless-cms/) by Sarfaraz Kasmani _(55 lectures / 6hrs)_
+- [Build a Website Using ReactJs and Contentful (Headless CMS)](https://www.udemy.com/course/build-a-website-using-reactjs-and-contentful-headless-cms/) by Sarfaraz Kasmani _(55 lectures / 6hrs)_
 
 ### Prismic
 
@@ -363,17 +372,17 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ### WordPress
 
-- [WordPress for Beginners: Create a Website Step by Step](https://www.udemy.com/course/wordpress-for-beginners-create-a-website-blog-step-by-step/) by Brad Schiff _(25 lectures / 5hrs)_
 - [Complete WordPress Theme & Plugin Development Course [2020]](https://www.udemy.com/course/wordpress-theme-and-plugin-development-course/) by Zac Gordon _(176 lectures / 16hrs)_
 - [The Complete WordPress Aliexpress Dropship course](https://www.udemy.com/course/the-complete-aliexpress-dropshipping-course/) by Tim Sharp _(65 lectures / 4.5hrs)_
 - [The Complete WordPress Website Business Course](https://www.udemy.com/course/the-complete-wordpress-website-business-course/) by Rob Percival & Gregg Davis _(102 lectures / 21.5hrs)_
 - [Wordpress for Beginners - Master Wordpress Quickly](https://www.udemy.com/course/wordpress-for-beginners-course/) by Andrew Williams _(92 lectures / 7.5hrs)_
+- [WordPress for Beginners: Create a Website Step by Step](https://www.udemy.com/course/wordpress-for-beginners-create-a-website-blog-step-by-step/) by Brad Schiff _(25 lectures / 5hrs)_
 - [WordPress for Beginners: Create a Website Step by Step](https://www.udemy.com/course/wordpress-for-beginners-create-a-website-blog-step-by-step/) by Brad Schiff _(23 lectures / 5hrs)_
 - [WordPress Theme Development with Bootstrap](https://www.udemy.com/course/bootstrap-to-wordpress/) by Brad Hussey _(83 lectures / 12hrs)_
 
 ## The Jamstack - JavaScript, APIs & Markup
 
-![Slide 16](img/2021/slide-16.jpg)
+![Slide 16](img/slide-16.jpg)
 
 ### Jamstack
 
@@ -381,7 +390,7 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ## Server Side Language (Choose One)
 
-![Slide 17](img/2021/slide-17.jpg)
+![Slide 17](img/slide-17.jpg)
 
 ### Node
 
@@ -396,17 +405,17 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ### Deno
 
-- [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/) by Maximilian Schwarzmüller _(541 lectures / 40.5hrs)_
 - [Deno: The Complete Guide Zero to Mastery](https://www.udemy.com/course/deno-the-complete-guide-zero-to-mastery/) by Andrei Neagoie & Adam Odziemkowski _(171 lectures / 13hrs)_
-- [Master Deno, React, Mongo, NGINX running with Docker-Compose](https://www.udemy.com/course/deno-and-react/) by Icaro Lavrador _(213 lectures / 21.5hrs)_
-- [Learn and Understand Deno Js - Beginner Guide](https://www.udemy.com/course/learn-and-understand-deno-future-nodejs-beginner-guide/) by Fadi Nouh & Dmytro Bondarenko _(42 lectures / 2hrs)_
-- [Mastering Deno.js: Beginner to Expert [2020]](https://www.udemy.com/course/mastering-denojs-beginner-to-expert/) by Ilkin Guluzada _(17 lectures / 1.5hrs)_
 - [Full-stack Deno with GraphQL, NextJS, and PostgreSQL](https://www.udemy.com/course/full-stack-deno/) by Simple Coder _(85 lectures / 10hrs)_
+- [Learn and Understand Deno Js - Beginner Guide](https://www.udemy.com/course/learn-and-understand-deno-future-nodejs-beginner-guide/) by Fadi Nouh & Dmytro Bondarenko _(42 lectures / 2hrs)_
+- [Master Deno, React, Mongo, NGINX running with Docker-Compose](https://www.udemy.com/course/deno-and-react/) by Icaro Lavrador _(213 lectures / 21.5hrs)_
+- [Mastering Deno.js: Beginner to Expert [2020]](https://www.udemy.com/course/mastering-denojs-beginner-to-expert/) by Ilkin Guluzada _(17 lectures / 1.5hrs)_
+- [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/) by Maximilian Schwarzmüller _(541 lectures / 40.5hrs)_
 
 ### Python
 
 - [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/course/complete-python-bootcamp/) by Jose Portilla _(185 lectures / 24hrs)_
-- [Complete Python Developer in 2020: Zero to Mastery](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/) by Andrei Neagoie _(320 lectures / 30.5hrs)_
+- [Complete Python Developer in 2021: Zero to Mastery](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/) by Andrei Neagoie _(327 lectures / 30.5hrs)_
 - [Learn Python Programming Masterclass](https://www.udemy.com/course/python-the-complete-python-developer-course/) by Tim Buchalka & Jean-Paul Roberts _(276 lectures / 46hrs)_
 - [Python for Absolute Beginners](https://www.udemy.com/course/python-for-absolute-beginners-u/) by Green Chameleon Learning _(67 lectures / 3hrs)_
 - [The Complete Python Course | Learn Python by Doing](https://www.udemy.com/course/the-complete-python-course/) by Jose Salvatierra & Rob Percival _(343 lectures / 35hrs)_
@@ -452,7 +461,7 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ## Server Side Framework (Choose One)
 
-![Slide 18](img/2021/slide-18.jpg)
+![Slide 18](img/slide-18.jpg)
 
 ### Express (Node)
 
@@ -470,7 +479,7 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ### Loopback (Node)
 
-- [Loopback 4: Modern ways to Build APIs in Typescript & NodeJs](https://www.udemy.com/course/loopback-4-the-complete-developers-guide/) by Haider Malik _(47 lectures / 5hrs)_
+- [Loopback 4: Modern Ways to Build APIs in TypeScript & NodeJs](https://www.udemy.com/course/loopback-4-the-complete-developers-guide/) by Haider Malik _(47 lectures / 5hrs)_
 
 ### Django (Python)
 
@@ -504,6 +513,10 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 - [Learn Symfony 3 framework by practical examples](https://www.udemy.com/course/learn-symfony-3-framework-by-practical-examples/) by Wojciech Ciolko _(48 lectures / 4hrs)_
 - [Symfony 4 & 5 Web Development Guide: Beginner To Advanced](https://www.udemy.com/course/symfony-4-web-development-from-beginner-to-advanced/) by Symfony & Laravel Stuff _(267 lectures / 20hrs)_
 
+### Slim (PHP)
+
+- Nothing here yet...
+
 ### ASP.NET MVC (C#)
 
 - [The Complete ASP.NET MVC 5 Course](https://www.udemy.com/course/the-complete-aspnet-mvc-5-course/) by Mosh Hamedani _(139 lectures / 7.5hrs)_
@@ -524,9 +537,13 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 - [Dissecting Ruby on Rails 5 - Become a Professional Developer](https://www.udemy.com/course/professional-rails-5-development-course/) by Jordan Hudgens _(246 lectures / 43hrs)_
 - [The Complete Ruby on Rails Developer Course](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/) by Rob Percival & Mashrur Hossain _(432 lectures / 48hrs)_
 
+### Sinatra (Ruby)
+
+- Nothing here yet...
+
 ## Database (Choose One)
 
-![Slide 19](img/2021/slide-19.jpg)
+![Slide 19](img/slide-19.jpg)
 
 ### PostgreSQL
 
@@ -574,37 +591,39 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ## GraphQL
 
-![Slide 20](img/2021/slide-20.jpg)
+![Slide 20](img/slide-20.jpg)
 
 ### GraphQL
 
+- GraphQL is typically used with React & Node
+
 ## Socket.io
 
-![Slide 21](img/2021/slide-21.jpg)
+![Slide 21](img/slide-21.jpg)
 
 ### Socket.io
 
-- [Socket.IO (with websockets) - the details. (socket io v2)](https://www.udemy.com/course/socketio-with-websockets-the-details/) by Robert Bunch _(69 lectures / 14hrs)_
 - [Create a Twitter Clone with Node.js, Socket.IO and MongoDB](https://www.udemy.com/course/create-a-twitter-clone-with-nodejs-socketio-and-mongodb/) by Reece Kenney _(274 lectures / 25.5hrs)_
+- [Socket.IO (with websockets) - the details. (socket io v2)](https://www.udemy.com/course/socketio-with-websockets-the-details/) by Robert Bunch _(69 lectures / 14hrs)_
 - [Socket.IO Chat App in React Native for iOS/Android](https://www.udemy.com/course/socketio-chat-app-in-react-native-for-iosandroid/) by Stefan Hyltoft _(37 lectures / 3hrs)_
 
 ## WordPress Development
 
-![Slide 22](img/2021/slide-22.jpg)
+![Slide 22](img/slide-22.jpg)
 
 ### WordPress
 
-- [WordPress for Beginners: Create a Website Step by Step](https://www.udemy.com/course/wordpress-for-beginners-create-a-website-blog-step-by-step/) by Brad Schiff _(25 lectures / 5hrs)_
 - [Complete WordPress Theme & Plugin Development Course [2020]](https://www.udemy.com/course/wordpress-theme-and-plugin-development-course/) by Zac Gordon _(176 lectures / 16hrs)_
 - [The Complete WordPress Aliexpress Dropship course](https://www.udemy.com/course/the-complete-aliexpress-dropshipping-course/) by Tim Sharp _(65 lectures / 4.5hrs)_
 - [The Complete WordPress Website Business Course](https://www.udemy.com/course/the-complete-wordpress-website-business-course/) by Rob Percival & Gregg Davis _(102 lectures / 21.5hrs)_
 - [Wordpress for Beginners - Master Wordpress Quickly](https://www.udemy.com/course/wordpress-for-beginners-course/) by Andrew Williams _(92 lectures / 7.5hrs)_
+- [WordPress for Beginners: Create a Website Step by Step](https://www.udemy.com/course/wordpress-for-beginners-create-a-website-blog-step-by-step/) by Brad Schiff _(25 lectures / 5hrs)_
 - [WordPress for Beginners: Create a Website Step by Step](https://www.udemy.com/course/wordpress-for-beginners-create-a-website-blog-step-by-step/) by Brad Schiff _(23 lectures / 5hrs)_
 - [WordPress Theme Development with Bootstrap](https://www.udemy.com/course/bootstrap-to-wordpress/) by Brad Hussey _(83 lectures / 12hrs)_
 
 ## Deployment, Servers & DevOps
 
-![Slide 23](img/2021/slide-23.jpg)
+![Slide 23](img/slide-23.jpg)
 
 ### Heroku
 
@@ -673,7 +692,7 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ## Mobile Development (Optional) (Choose One)
 
-![Slide 24](img/2021/slide-24.jpg)
+![Slide 24](img/slide-24.jpg)
 
 ### Flutter/Dart
 
@@ -725,7 +744,7 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ## PWA: Progressive Web Apps
 
-![Slide 25](img/2021/slide-25.jpg)
+![Slide 25](img/slide-25.jpg)
 
 ### Progressive Web Apps
 
@@ -734,7 +753,7 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ## Desktop Apps with Web Technologies
 
-![Slide 26](img/2021/slide-26.jpg)
+![Slide 26](img/slide-26.jpg)
 
 ### Electron
 
@@ -750,7 +769,7 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ## AI/Machine Learning
 
-![Slide 27](img/2021/slide-27.jpg)
+![Slide 27](img/slide-27.jpg)
 
 ### Python
 
@@ -766,7 +785,7 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ## Web Assembly
 
-![Slide 28](img/2021/slide-28.jpg)
+![Slide 28](img/slide-28.jpg)
 
 ### Web Assembly
 
@@ -786,8 +805,8 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ## Algorithms & Data Structures
 
-![Slide 29](img/2021/slide-29.jpg)
-![Slide 30](img/2021/slide-30.jpg)
+![Slide 29](img/slide-29.jpg)
+![Slide 30](img/slide-30.jpg)
 
 ### JavaScript
 
@@ -810,9 +829,65 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ## Software Design Patterns
 
-![Slide 31](img/2021/slide-31.jpg)
+![Slide 31](img/slide-31.jpg)
 
 ### Software Design Patterns
+
+---
+
+## From 2020 Course List
+
+## Content Management
+
+![Slide 24](img/slide-24.jpg)
+
+### WordPress
+
+- [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/course/wordpress-for-beginners-create-a-website-blog-step-by-step/) by Brad Schiff _(113 lectures / 27hrs)_
+- [Complete WordPress Development Themes and Plugins Course](https://www.udemy.com/course/wordpress-theme-and-plugin-development-course/) by Zac Gordon _(175 lectures / 16hrs)_
+- [The Complete WordPress Aliexpress Dropship course](https://www.udemy.com/course/the-complete-aliexpress-dropshipping-course/) by Tim Sharp _(65 lectures / 4.5hrs)_
+- [The Complete WordPress Website Business Course](https://www.udemy.com/course/the-complete-wordpress-website-business-course/) by Rob Percival & Gregg Davis _(102 lectures / 21.5hrs)_
+- [Wordpress for Beginners - Master Wordpress Quickly](https://www.udemy.com/course/wordpress-for-beginners-course/) by Andrew Williams _(92 lectures / 7.5hrs)_
+- [WordPress for Beginners: Create a Website Step by Step](https://www.udemy.com/course/wordpress-for-beginners-create-a-website-blog-step-by-step/) by Brad Schiff _(23 lectures / 5hrs)_
+- [WordPress Theme Development with Bootstrap](https://www.udemy.com/course/bootstrap-to-wordpress/) by Brad Hussey _(83 lectures / 12hrs)_
+
+### Drupal
+
+- [Drupal 8 for Beginners](https://www.udemy.com/course/drupal-8-for-beginners/) by Packt Publishing _(37 lectures / 4hrs)_
+- [DRUPAL TUTORIAL: Drupal 8 Beginner to Advanced in 8 PROJECTS](https://www.udemy.com/course/drupal-tutorial/) by Srikanth Shirodkar _(79 lectures / 7.5hrs)_
+- [Learning Drupal 8](https://www.udemy.com/course/learning-drupal-8/) by Infinite Skills _(101 lectures / 9.5hrs)_
+
+## Serverless Architecture
+
+![Slide 31](img/slide-31.jpg)
+
+### AWS Lambda
+
+- [AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps)](https://www.udemy.com/course/aws-lambda-serverless-architecture/) by Riyaz Sayyad _(301 lectures / 25.5hrs)_
+- [AWS Lambda and the Serverless Framework - Hands On Learning!](https://www.udemy.com/course/aws-lambda-serverless/) by Stephane Maarek _(38 lectures / 2.5hrs)_
+- [AWS Serverless APIs & Apps - A Complete Introduction](https://www.udemy.com/course/aws-serverless-a-complete-introduction/) by Maximilian Schwarzmüller _(142 lectures / 7.5hrs)_
+- [Build a Serverless App with AWS Lambda - Hands On!](https://www.udemy.com/course/build-a-serverless-app-with-aws-lambda-hands-on/) by Frank Kane & Brian Tajuddin _(60 lectures / 7.5hrs)_
+
+## API-First Design
+
+![Slide 32](img/slide-32.jpg)
+
+### APIs
+
+- [Advanced REST APIs with Flask and Python](https://www.udemy.com/course/advanced-rest-apis-flask-python/) by Jose Salvatierra _(130 lectures / 12.5hrs)_
+- [API and Web Service Introduction](https://www.udemy.com/course/api-and-web-service-introduction/) by Nate Ross _(53 lectures / 5.5hrs)_
+- [Node.js API Masterclass With Express & MongoDB](https://www.udemy.com/course/nodejs-api-masterclass/) by Brad Traversy _(76 lectures / 12hrs)_
+- [Node.js, Express, MongoDB & More: The Complete Bootcamp 2020](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) by Jonas Schmedtmann _(227 lectures / 42hrs)_
+- [Node.js: The Complete Guide to Build RESTful APIs (2018)](https://www.udemy.com/course/nodejs-master-class/) by Mosh Hamedani _(224 lectures / 15hrs)_
+- [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/) by Maximilian Schwarzmüller _(541 lectures / 40.5hrs)_
+- [Postman: The Complete Guide - REST API Testing](https://www.udemy.com/course/postman-the-complete-guide/) by Valentin Despa _(131 lectures / 14hrs)_
+- [Python REST APIs with Flask, Docker, MongoDB, and AWS DevOps](https://www.udemy.com/course/python-rest-apis-with-flask-docker-mongodb-and-aws-devops/) by Tim Buchalka & El Farouk Yasser _(45 lectures / 10.5hrs)_
+- [REST API Design, Development & Management](https://www.udemy.com/course/rest-api/) by Rajeev Sakhuja _(50 lectures / 7hrs)_
+- [REST API Testing (Automation) from Scratch - Rest Assured Java](https://www.udemy.com/course/rest-api-automation-testing-rest-assured/) by Rahul Shetty _(133 lectures / 23.5hrs)_
+- [REST API Testing, Automation via Postman + real Google API](https://www.udemy.com/course/rest-api-testing-automation-via-postman-git-jenkins-jira/) by Sergei Semenov _(29 lectures / 2.5hrs)_
+- [REST APIs with Flask and Python](https://www.udemy.com/course/rest-api-flask-and-python/) by Jose Salvatierra _(170 lectures / 17hrs)_
+- [WebServices API Testing Using Rest Assured API & Postman](https://www.udemy.com/course/webservices-testing-restassured-api-tutorial/) by Rahul Arora _(138 lectures / 37.5hrs)_
+- [WebServices/Rest API Testing with SoapUI + Real Time Project](https://www.udemy.com/course/webservices-testing-with-soap-ui/) by Rahul Shetty _(107 lectures / 19hrs)_
 
 ---
 
@@ -826,7 +901,7 @@ Udemy is also well known for having all-in-one full stack web development course
 
 - [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Angela Yu _(440 lectures / 55hrs)_
 - [The Complete Web Developer Course 2.0](https://www.udemy.com/course/the-complete-web-developer-course-2/) by Rob Percival _(309 lectures / 30.5hrs)_
-- [The Complete Web Developer in 2020: Zero to Mastery](The Complete Web Developer in 2021: Zero to Mastery) by Andrei Neagoie _(370 lectures / 37hrs)_
+- [The Complete Web Developer in 2021: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) by Andrei Neagoie _(370 lectures / 37hrs)_
 - [The Web Developer Bootcamp 2020](https://www.udemy.com/course/the-web-developer-bootcamp/) by Colt Steele _(613 lectures / 63hrs)_
 
 ## Full Stack (Advanced)
