@@ -803,6 +803,8 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ### AssemblyScript
 
+- Nothing here yet...
+
 ## Algorithms & Data Structures
 
 ![Slide 29](img/slide-29.jpg)
