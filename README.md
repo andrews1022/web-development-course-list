@@ -1,6 +1,6 @@
 # Web Development In 2021 - A Course List
 
-It's that time of year again, and Brad Traversy has released his annual Web Development roadmap for the upcoming year. It is a fantastic resource that I know we are all thankful for. And being a web developer has never been better, and as shown in the video, there are a **TON** of technologies at our disposal! However, this can also be quite intimidating for beginners. So, I have comprised a list below of the top Udemy courses for each slide as well some other resources, hopefully easing your decision making. Each block of courses is listed in alphabetical order for simplicity's sake.
+It's that time of year again, and Brad Traversy has released his annual Web Development roadmap for the upcoming year. It is a fantastic resource that I know we are all thankful for. And being a web developer has never been better, and as shown in the video, there are a **TON** of technologies at our disposal! However, this can also be quite intimidating for beginners. So, I have composed a list below of the top Udemy courses for each slide as well some other resources, hopefully easing your decision making. Each block of courses is listed in alphabetical order for simplicity's sake.
 
 You certainly **DO NOT** need to learn everything here. This list aims to simply provide you with the options of what you _CAN_ learn (and some things you _SHOULD_ learn - such as HTML, CSS, and JavaScript). So, it really is up to you what you want to learn.
 
