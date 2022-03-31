@@ -37,6 +37,7 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 - [W3Schools](https://www.w3schools.com/)
 - [Wes Bos](https://wesbos.com/)
 - [YouTube](https://www.youtube.com/)
+- [Scaler](https://www.scaler.com/courses/web-development/)
 
 ## Basic Tools
 
