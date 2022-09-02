@@ -348,7 +348,12 @@ If Udemy's not your jam though, no worries! There are plenty of other resources 
 
 ### Hugo
 
-- Nothing here yet...
+- [Build a Static Website step by step using Hugo](https://www.udemy.com/course/build-a-static-website-using-hugo/) by Sanjeev J. _(12 lectures / 1.5hrs)_
+- [Migrate from WordPress to Hugo, Step by Step](https://www.udemy.com/course/wp-to-hugo/) by Ty Walls _(96 lectures / 6hrs)_
+- [JAMStack: The Complete Guide](https://www.udemy.com/course/jamstack/) by Ray Viljoen _(29 lectures / 4.5hrs)_
+- [Learning Static Site Building with Hugo](https://www.linkedin.com/learning/learning-static-site-building-with-hugo-2) by Nate Barbettini _(45 lectures / 1.5hrs)_
+- [Continuous Delivery of Global Scale Hugo Static Site on AWS](https://www.oreilly.com/library/view/continuous-delivery-of/06162022VIDEOPAIML/) by Noah Gift _(1 lecture / 1hr)_
+- [Get Started With Hugo: Build a Static Site](https://www.skillshare.com/classes/Get-Started-With-Hugo-Build-a-Static-Site/376931737) by Kylie Pace _(12 lectures / 0.5hrs)_
 
 ## Headless CMS (Choose One)
 
