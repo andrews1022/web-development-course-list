@@ -1,6 +1,6 @@
 # Web Development Course List
 
-It's that time of year again, and Brad Traversy has released his annual Web Development roadmap for the upcoming year. It is a fantastic resource that I know we are all thankful for. Being a web developer has never been better, and as shown in the video, there are a **TON** of technologies at our disposal! However, this can also be quite intimidating for beginners. So, I have composed a list below of the top Udemy courses for each slide as well some other resources, hopefully easing your decision making. Each block of courses is listed in alphabetical order for simplicity's sake.
+Once again, it's that time of year and Brad Traversy has just released his latest Web Development roadmap for the upcoming year. This is an amazing resource that we all appreciate. As a web developer, we have access to an incredible amount of technologies as shown in the video, but this can be overwhelming for beginners. To help with this, I have curated a list below of the top Udemy courses for each topic slide as well as some other resources to make your decision-making process easier. The courses are listed in alphabetical order for simplicity. With these resources, you can gain the knowledge and skills needed to thrive in the world of web development..
 
 You certainly **DO NOT** need to learn everything here. This list aims to simply provide you with the options of what you _CAN_ learn (and some things you _SHOULD_ learn - such as HTML, CSS, and JavaScript). So, it really is up to you what you want to learn.
 
